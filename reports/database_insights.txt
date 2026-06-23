@@ -1,0 +1,11 @@
+DATABASE INSIGHTS
+=================
+
+Highest Income: 130896
+Lowest Income: 15000
+
+Income By Employment Status
+---------------------------
+Employed : 52439.42
+Student : 16030.58
+Unemployed : 50145.24

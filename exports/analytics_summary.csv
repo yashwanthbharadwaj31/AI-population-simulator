@@ -1,0 +1,11 @@
+Category,Group,Count
+Income,Low Income,270
+Income,Middle Income,460
+Income,High Income,190
+Income,Very High Income,80
+Health,Healthy,420
+Health,Average,385
+Health,At Risk,195
+Happiness,Happy,351
+Happiness,Neutral,309
+Happiness,Unhappy,340

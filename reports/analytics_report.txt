@@ -1,0 +1,46 @@
+ANALYTICS REPORT
+================
+
+AGE DISTRIBUTION
+----------------
+18-25: 163
+26-40: 254
+41-60: 392
+60+: 191
+
+EDUCATION DISTRIBUTION
+----------------------
+School: 336
+Graduate: 344
+Post Graduate: 320
+
+EMPLOYMENT DISTRIBUTION
+-----------------------
+Student: 100
+Employed: 466
+Unemployed: 434
+
+INCOME DISTRIBUTION
+-------------------
+Low Income: 270
+Middle Income: 460
+High Income: 190
+Very High Income: 80
+
+HEALTH DISTRIBUTION
+-------------------
+Healthy: 420
+Average: 385
+At Risk: 195
+
+HAPPINESS DISTRIBUTION
+----------------------
+Happy: 351
+Neutral: 309
+Unhappy: 340
+
+SMART INSIGHTS
+--------------
+Most Common Age Group: 41-60
+Most Common Education: Graduate
+Most Common Employment Status: Employed

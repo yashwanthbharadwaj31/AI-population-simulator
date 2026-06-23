@@ -1,0 +1,29 @@
+AI POPULATION REPORT
+====================
+
+Total Population: 1000
+Students: 100
+Employed: 466
+Unemployed: 434
+Average Income: 47802.86
+Average Health Score: 74.86
+Average Happiness Score: 70.26
+
+AGE DISTRIBUTION
+----------------
+18-25: 163
+26-40: 254
+41-60: 392
+60+: 191
+
+EDUCATION DISTRIBUTION
+----------------------
+School: 336
+Graduate: 344
+Post Graduate: 320
+
+EMPLOYMENT DISTRIBUTION
+-----------------------
+Student: 100
+Employed: 466
+Unemployed: 434

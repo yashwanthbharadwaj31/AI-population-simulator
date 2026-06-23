@@ -1,0 +1,16 @@
+Rank,Category,Citizen ID,Age,Employment Status,Value
+1,Richest,756,70,Unemployed,130896
+2,Richest,599,70,Employed,127129
+3,Richest,274,70,Employed,126315
+4,Richest,508,66,Employed,125961
+5,Richest,279,68,Employed,125678
+1,Healthiest,872,52,Employed,100
+2,Healthiest,849,53,Unemployed,100
+3,Healthiest,730,55,Unemployed,100
+4,Healthiest,715,41,Employed,100
+5,Healthiest,699,22,Student,100
+1,Happiest,810,36,Employed,100
+2,Happiest,772,69,Employed,100
+3,Happiest,690,18,Student,100
+4,Happiest,508,66,Employed,100
+5,Happiest,370,65,Employed,100
