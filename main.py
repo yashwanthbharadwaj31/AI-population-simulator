@@ -20,6 +20,54 @@ from reports.report_generator import (
     generate_analytics_report
 )
 import csv
+def generate_population():
+    population = []
+    citizen_income_data = []
+    for citizen_id in range(1, 1001):
+        age = random.randint(18, 70)
+        if age <= 22:
+            employment_status = "Student"
+            experience_years = 0
+        elif age <= 30:
+            employment_status = random.choice(
+                ["Employed", "Unemployed"]
+            )
+            experience_years = random.randint(0, 8)
+        else:
+            employment_status = random.choice(
+                ["Employed", "Unemployed"]
+            )
+            experience_years = random.randint(
+                5,
+                age - 22
+            )
+        income = 15000 + (experience_years * 2500)
+        income += random.randint(-5000, 5000)
+        if income < 15000:
+            income = 15000
+        citizen = Citizen(
+            citizen_id,
+            age,
+            random.choice(["Male", "Female"]),
+            random.choice([
+                "School",
+                "Graduate",
+                "Post Graduate"
+            ]),
+            income,
+            employment_status,
+            experience_years,
+            random.randint(50, 100),
+            random.randint(40, 100)
+        )
+        population.append(citizen)
+        citizen_income_data.append(
+            (
+                citizen.citizen_id,
+                citizen.income
+            )
+        )
+    return population
 print("Program Started")
 connection = sqlite3.connect("database.db")
 cursor = connection.cursor()
@@ -37,51 +85,7 @@ CREATE TABLE IF NOT EXISTS population (
     happiness_score INTEGER
 )
 """)
-population = []
-citizen_income_data = []
-for citizen_id in range(1, 1001):
-    age =  random.randint(18,70)
-    if age <= 22:
-        employment_status = "Student"
-        experience_years = 0
-    elif age <=30:
-        employment_status = random.choice([
-            "Employed",
-            "Unemployed"
-        ])    
-        experience_years = random.randint(0, 8)
-    else:
-        employment_status = random.choice([
-            "Employed",
-            "Unemployed"
-        ])    
-        experience_years = random.randint(5, age - 22)
-    income = 15000 + (experience_years * 2500)
-    income += random.randint(-5000, 5000)
-    if income < 15000:
-         income = 15000
-    citizen = Citizen(
-    citizen_id,
-    age,
-    random.choice(["Male", "Female"]),
-    random.choice([
-        "School",
-        "Graduate",
-        "Post Graduate"
-    ]),
-    income,
-    employment_status,
-    experience_years,
-    random.randint(50, 100),
-    random.randint(40, 100)
-)
-    population.append(citizen)
-    citizen_income_data.append(
-    (
-        citizen.citizen_id,
-        citizen.income
-    )
-)
+population = generate_population()
 for citizen in population:
     cursor.execute(
         """
