@@ -3,44 +3,44 @@ ANALYTICS REPORT
 
 AGE DISTRIBUTION
 ----------------
-18-25: 127
-26-40: 312
-41-60: 360
-60+: 201
+18-25: 174
+26-40: 261
+41-60: 371
+60+: 194
 
 EDUCATION DISTRIBUTION
 ----------------------
-School: 340
-Graduate: 338
-Post Graduate: 322
+School: 327
+Graduate: 320
+Post Graduate: 353
 
 EMPLOYMENT DISTRIBUTION
 -----------------------
-Student: 79
-Employed: 453
-Unemployed: 468
+Student: 105
+Employed: 450
+Unemployed: 445
 
 INCOME DISTRIBUTION
 -------------------
-Low Income: 269
-Middle Income: 433
-High Income: 208
-Very High Income: 90
+Low Income: 296
+Middle Income: 432
+High Income: 186
+Very High Income: 86
 
 HEALTH DISTRIBUTION
 -------------------
-Healthy: 440
-Average: 368
-At Risk: 192
+Healthy: 413
+Average: 396
+At Risk: 191
 
 HAPPINESS DISTRIBUTION
 ----------------------
-Happy: 328
-Neutral: 328
-Unhappy: 344
+Happy: 337
+Neutral: 317
+Unhappy: 346
 
 SMART INSIGHTS
 --------------
 Most Common Age Group: 41-60
-Most Common Education: School
-Most Common Employment Status: Unemployed
+Most Common Education: Post Graduate
+Most Common Employment Status: Employed

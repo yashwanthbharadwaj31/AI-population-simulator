@@ -17,7 +17,16 @@ from data.analytics import (
     get_health_distribution,
     get_happiness_distribution
 )
-from data.search import binary_search_citizen
+from data.search import (
+    binary_search_citizen,
+    search_by_age,
+    search_by_income,
+    search_by_education,
+    search_by_employment_status,
+    filter_by_income_threshold,
+    filter_senior_citizens,
+    filter_graduates
+)
 from reports.report_generator import (
     generate_report,
     generate_analytics_report
@@ -34,8 +43,35 @@ from visualization.graphs import (
     generate_top_happiest_chart,
     generate_dashboard
 )
-
 import csv
+def display_citizens(results):
+    if not results:
+        print("No citizens found.")
+        return
+    print()
+    print("=" * 80)
+    print(
+        f"{'ID':<6}"
+        f"{'Age':<6}"
+        f"{'Education':<18}"
+        f"{'Income':<12}"
+        f"{'Employment':<15}"
+        f"{'Health':<10}"
+        f"{'Happiness':<10}"
+    )
+    print("=" * 80)
+    for citizen in results:
+        print(
+            f"{citizen.citizen_id:<6}"
+            f"{citizen.age:<6}"
+            f"{citizen.education:<18}"
+            f"₹{citizen.income:<11}"
+            f"{citizen.employment_status:<15}"
+            f"{citizen.health_score:<10}"
+            f"{citizen.happiness_score:<10}"
+        )
+    print("=" * 80)
+    print(f"Total Citizens Found: {len(results)}")
 def generate_population():
     population = []
     citizen_income_data = []
@@ -320,40 +356,93 @@ for citizen in population[:5]:
         citizen.happiness_score
     )
 print()
-print("Binary Search Test")
-print("------------------")
+print("======================================")
+print("SEARCH & FILTER MENU")
+print("======================================")
 population_by_id = sorted(
     population,
     key=lambda citizen: citizen.citizen_id
 )
 while True:
-    search_id = int(input("Enter Citizen ID: "))
-    found_citizen = binary_search_citizen(
-    population_by_id,
-    search_id
-)
-    if found_citizen:
-        print()
-        print("Citizen Found")
-        print("-------------")
-        print("ID:", found_citizen.citizen_id)
-        print("Age:", found_citizen.age)
-        print("Income:", found_citizen.income)
-        print("Status:", found_citizen.employment_status)
-        print("Gender:", found_citizen.gender)
-        print("Education:", found_citizen.education)
-        print("Experience:", found_citizen.experience_years)
-        print("Health Score:", found_citizen.health_score)
-        print("Happiness Score:", found_citizen.happiness_score)
-    else:
-        print()
-        print("Citizen Not Found")
     print()
-    choice = input(
-        "Search another citizen? (y/n): "
-    )
-    if choice.lower() != "y":
+    print("1. Search by Citizen ID")
+    print("2. Search by Age")
+    print("3. Search by Income")
+    print("4. Search by Education")
+    print("5. Search by Employment Status")
+    print("6. Filter by Minimum Income")
+    print("7. Filter Senior Citizens")
+    print("8. Filter Graduates")
+    print("9. Exit")
+    choice = input("\nEnter your choice: ")
+    if choice == "1":
+        search_id = int(input("Enter Citizen ID: "))
+        found = binary_search_citizen(
+            population_by_id,
+            search_id
+        )
+        if found:
+            print("\nCitizen Found")
+            print("---------------------")
+            print("ID:", found.citizen_id)
+            print("Age:", found.age)
+            print("Gender:", found.gender)
+            print("Education:", found.education)
+            print("Income:", found.income)
+            print("Employment:", found.employment_status)
+            print("Experience:", found.experience_years)
+            print("Health:", found.health_score)
+            print("Happiness:", found.happiness_score)
+        else:
+            print("\nCitizen Not Found.")
+    elif choice == "2":
+        age = int(input("Enter Age: "))
+        results = search_by_age(
+            population,
+            age
+        )
+        display_citizens(results)
+    elif choice == "3":
+        income = int(input("Enter Income: "))
+        results = search_by_income(
+            population,
+            income
+        )
+        display_citizens(results)         
+    elif choice == "4":
+        education = input(
+            "Enter Education (School/Graduate/Post Graduate): "
+        )
+        results = search_by_education(
+            population,
+            education
+        )
+        display_citizens(results)
+    elif choice == "5":
+        status = input(
+            "Enter Employment Status (Student/Employed/Unemployed): "
+        )
+        results = search_by_employment_status(
+            population,
+            status
+        )
+        display_citizens(results)
+    elif choice == "6":
+        minimum_income = int(input("Enter Minimum Income: "))
+        results = filter_by_income_threshold(population, minimum_income)
+        display_citizens(results)
+    elif choice == "7":
+        results = filter_senior_citizens(population)
+        display_citizens(results)
+    elif choice == "8":
+        results = filter_graduates(population)
+        display_citizens(results)
+    elif choice == "9":
+        print()
+        print("Exiting Search & Filter Menu...")
         break
+    else:
+        print("Invalid choice. Please try again.")        
 print()
 print("Exporting Population Data...")
 csv_file = open(
