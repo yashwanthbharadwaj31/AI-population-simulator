@@ -1,1001 +1,1001 @@
 Citizen ID,Age,Gender,Education,Income,Employment Status,Experience Years,Health Score,Happiness Score
-1,47,Male,School,63810,Employed,20,64,63
-2,45,Female,Graduate,68564,Unemployed,20,60,73
-3,58,Female,Graduate,82638,Unemployed,29,66,44
-4,34,Male,Post Graduate,36465,Unemployed,10,81,66
-5,35,Male,Graduate,24997,Unemployed,5,98,66
-6,19,Female,School,15000,Student,0,78,48
-7,28,Female,Post Graduate,15000,Employed,0,77,49
-8,28,Female,School,33517,Employed,8,67,49
-9,53,Female,Graduate,94713,Employed,30,79,87
-10,59,Male,Post Graduate,82011,Unemployed,27,78,46
-11,28,Male,School,16593,Employed,0,97,55
-12,46,Male,Post Graduate,27669,Unemployed,5,80,48
-13,62,Male,Post Graduate,37977,Employed,10,55,77
-14,53,Female,School,76404,Unemployed,23,52,40
-15,61,Female,School,87498,Unemployed,29,86,66
-16,67,Male,Post Graduate,95831,Employed,31,93,77
-17,40,Female,Post Graduate,54143,Unemployed,17,62,43
-18,42,Female,Post Graduate,36966,Unemployed,8,56,93
-19,57,Male,Graduate,34615,Unemployed,8,74,82
-20,58,Female,Graduate,38285,Employed,11,87,66
-21,18,Male,Graduate,16005,Student,0,75,82
-22,25,Male,Post Graduate,34350,Unemployed,8,80,43
-23,28,Female,School,15571,Unemployed,1,84,46
-24,48,Female,School,77721,Employed,24,68,42
-25,61,Female,School,44787,Employed,11,71,84
-26,22,Male,Graduate,18518,Student,0,52,92
-27,34,Female,Post Graduate,35799,Unemployed,7,78,57
-28,56,Male,Graduate,86464,Employed,28,95,67
-29,51,Male,Graduate,58853,Employed,17,91,98
-30,26,Female,Post Graduate,30949,Unemployed,6,85,75
-31,53,Female,School,59764,Unemployed,19,67,79
-32,42,Female,Graduate,30515,Unemployed,6,62,73
-33,44,Female,School,33540,Employed,8,73,66
-34,37,Male,Post Graduate,40808,Unemployed,10,57,96
-35,64,Female,School,32452,Employed,5,75,56
-36,18,Female,Post Graduate,17928,Student,0,75,73
-37,57,Female,Graduate,47495,Employed,11,74,100
-38,66,Male,School,88407,Employed,28,100,65
-39,63,Male,Graduate,88027,Unemployed,30,87,64
-40,44,Female,Post Graduate,29832,Employed,7,61,42
-41,53,Female,Graduate,34490,Unemployed,6,73,72
-42,59,Male,School,50346,Unemployed,16,74,85
-43,65,Male,Post Graduate,91792,Unemployed,30,55,42
-44,40,Female,Graduate,40308,Unemployed,11,74,77
-45,46,Female,School,75348,Unemployed,24,67,67
-46,34,Male,Graduate,27229,Employed,6,88,42
-47,40,Female,Post Graduate,49702,Unemployed,14,64,66
-48,30,Female,Post Graduate,17223,Employed,0,73,77
-49,67,Female,Post Graduate,102761,Employed,37,72,61
-50,42,Female,School,68211,Unemployed,20,91,63
-51,43,Male,School,29056,Employed,5,66,86
-52,54,Male,Post Graduate,76601,Employed,25,56,99
-53,23,Female,School,24472,Unemployed,4,89,59
-54,62,Female,Post Graduate,78637,Employed,24,65,47
-55,61,Male,School,87836,Employed,28,81,98
-56,64,Male,School,94088,Unemployed,32,67,75
-57,56,Male,Post Graduate,95191,Employed,32,67,77
-58,36,Male,Graduate,40216,Employed,10,88,51
-59,42,Female,Graduate,63456,Unemployed,18,96,55
-60,54,Male,Post Graduate,79721,Employed,26,82,97
-61,51,Male,School,76789,Unemployed,24,64,72
-62,66,Female,Graduate,109422,Employed,38,64,60
-63,68,Female,School,105530,Unemployed,37,98,82
-64,33,Female,School,37541,Employed,10,74,83
-65,67,Male,School,46347,Employed,12,91,49
-66,40,Male,Graduate,41447,Employed,10,81,67
-67,30,Male,School,22993,Employed,3,67,51
-68,66,Female,Post Graduate,120821,Unemployed,41,72,56
-69,37,Female,Graduate,37898,Unemployed,9,98,92
-70,54,Male,Post Graduate,72386,Unemployed,22,87,63
-71,65,Male,School,72125,Unemployed,21,87,96
-72,50,Female,Graduate,31235,Unemployed,8,96,48
-73,38,Male,Post Graduate,48104,Employed,12,88,55
-74,60,Male,School,75216,Unemployed,25,84,44
-75,40,Male,Graduate,61681,Unemployed,18,52,40
-76,29,Male,School,25720,Unemployed,4,73,56
-77,41,Male,Graduate,62094,Unemployed,17,93,92
-78,28,Male,Post Graduate,31922,Employed,8,74,100
-79,65,Female,Post Graduate,48387,Unemployed,12,89,41
-80,40,Female,Post Graduate,57199,Unemployed,17,60,93
-81,63,Female,Post Graduate,113682,Unemployed,41,83,87
-82,23,Male,School,37411,Unemployed,8,94,57
-83,35,Male,School,33565,Employed,7,72,69
-84,32,Female,Post Graduate,35909,Employed,9,78,89
-85,56,Female,Post Graduate,32881,Unemployed,6,83,47
-86,70,Male,Graduate,78585,Unemployed,25,80,41
-87,43,Male,Graduate,34949,Unemployed,9,80,78
-88,41,Female,School,33188,Employed,6,52,93
-89,29,Female,Graduate,18209,Employed,2,67,62
-90,34,Male,Post Graduate,44377,Employed,11,80,77
-91,40,Female,Post Graduate,48924,Unemployed,14,54,83
-92,69,Male,Post Graduate,30183,Employed,7,94,61
-93,18,Female,Post Graduate,15000,Student,0,84,88
-94,28,Female,Post Graduate,24424,Employed,2,82,97
-95,29,Male,Graduate,35655,Employed,8,98,80
-96,37,Female,Post Graduate,40978,Unemployed,12,94,78
-97,28,Male,Graduate,29952,Employed,5,78,67
-98,27,Female,School,26347,Unemployed,5,83,41
-99,28,Female,Post Graduate,19511,Employed,3,52,72
-100,37,Female,Post Graduate,25729,Unemployed,6,95,97
-101,46,Female,School,50833,Employed,14,81,95
-102,24,Male,Post Graduate,29725,Unemployed,5,80,40
-103,33,Female,Graduate,25308,Unemployed,6,97,92
-104,67,Female,Graduate,58124,Employed,16,64,69
-105,26,Female,School,16505,Employed,1,64,47
-106,22,Male,School,15000,Student,0,51,54
-107,65,Male,Post Graduate,33716,Employed,9,51,67
-108,32,Male,School,35258,Employed,9,98,51
-109,33,Male,Graduate,36113,Employed,8,97,93
-110,31,Female,School,32997,Employed,7,57,66
-111,24,Female,School,26149,Employed,6,52,46
-112,53,Female,Graduate,65726,Unemployed,22,88,77
-113,18,Male,Post Graduate,19014,Student,0,64,93
-114,67,Female,Graduate,27217,Unemployed,6,79,97
-115,31,Female,Post Graduate,29608,Employed,5,51,67
-116,60,Male,Graduate,58444,Employed,19,50,97
-117,62,Male,School,57867,Unemployed,18,53,94
-118,29,Male,School,15156,Unemployed,1,50,70
-119,41,Female,Graduate,51298,Employed,15,64,88
-120,61,Male,Graduate,101547,Unemployed,34,82,47
-121,24,Female,Post Graduate,25248,Unemployed,3,56,89
-122,56,Male,Post Graduate,86049,Unemployed,28,89,98
-123,41,Male,School,61899,Unemployed,17,53,80
-124,61,Male,Graduate,113360,Employed,38,99,67
-125,48,Female,Graduate,84275,Employed,26,60,90
-126,25,Male,Graduate,18371,Unemployed,3,58,66
-127,41,Male,School,44655,Unemployed,13,61,71
-128,65,Female,School,97940,Employed,32,86,44
-129,66,Female,School,42786,Employed,13,79,44
-130,38,Male,School,42392,Unemployed,10,71,97
-131,44,Male,Graduate,34979,Employed,7,77,83
-132,56,Male,School,85261,Unemployed,29,57,75
-133,39,Female,School,42930,Employed,13,73,94
-134,42,Male,Post Graduate,41366,Unemployed,9,52,98
-135,58,Female,Graduate,62493,Employed,18,56,51
-136,67,Female,Graduate,26603,Employed,6,59,98
-137,70,Female,Graduate,131114,Unemployed,48,70,56
-138,69,Male,Post Graduate,34535,Unemployed,7,57,45
-139,70,Male,School,93729,Employed,33,80,90
-140,44,Male,School,52581,Employed,17,75,46
-141,32,Female,Post Graduate,35459,Employed,7,55,73
-142,25,Female,School,20505,Employed,3,54,85
-143,20,Female,School,15000,Student,0,87,41
-144,47,Female,Graduate,44122,Unemployed,12,56,48
-145,37,Female,Graduate,47775,Employed,13,89,88
-146,20,Male,Post Graduate,18737,Student,0,81,75
-147,46,Male,Graduate,60285,Employed,18,90,98
-148,61,Male,Graduate,35147,Unemployed,10,84,97
-149,65,Male,School,24288,Unemployed,5,77,40
-150,31,Female,Graduate,38093,Employed,9,90,89
-151,43,Female,Post Graduate,66567,Unemployed,19,72,42
-152,45,Female,Graduate,33848,Unemployed,7,52,71
-153,70,Female,Post Graduate,134573,Unemployed,46,88,47
-154,19,Female,Post Graduate,15000,Student,0,58,59
-155,45,Male,School,37134,Employed,9,100,90
-156,39,Male,School,28045,Employed,5,98,94
-157,67,Female,Post Graduate,103828,Employed,37,53,82
-158,67,Female,Post Graduate,72784,Employed,24,87,46
-159,24,Male,Post Graduate,25005,Unemployed,4,92,61
-160,41,Male,Post Graduate,47833,Unemployed,15,82,78
-161,37,Female,School,27502,Unemployed,7,58,80
-162,22,Female,School,18391,Student,0,100,47
-163,41,Female,Graduate,25280,Unemployed,6,91,45
-164,25,Female,Graduate,17488,Unemployed,1,57,92
-165,36,Female,Post Graduate,49775,Unemployed,13,90,88
-166,52,Male,Graduate,39082,Unemployed,11,69,64
-167,27,Male,Graduate,19930,Employed,2,75,62
-168,50,Female,Post Graduate,70880,Employed,21,73,94
-169,38,Male,Post Graduate,34807,Employed,8,72,97
-170,29,Male,School,31203,Unemployed,7,73,68
-171,38,Female,Graduate,46844,Employed,14,82,57
-172,49,Male,Graduate,72512,Unemployed,22,80,77
-173,50,Female,Graduate,72743,Employed,24,52,49
-174,51,Female,Post Graduate,40309,Employed,10,62,72
-175,59,Male,School,60768,Employed,19,58,91
-176,35,Female,School,30695,Employed,8,51,41
-177,50,Male,School,77816,Unemployed,26,92,80
-178,61,Female,School,42643,Unemployed,13,60,79
-179,31,Male,School,30232,Unemployed,5,61,57
-180,18,Female,School,15000,Student,0,83,87
-181,48,Female,Post Graduate,52605,Employed,14,71,41
-182,65,Female,Graduate,26833,Employed,5,80,55
-183,61,Female,Graduate,78835,Unemployed,27,95,97
-184,65,Female,Post Graduate,68283,Unemployed,22,63,82
-185,68,Female,Post Graduate,134188,Unemployed,46,77,98
-186,41,Female,School,36315,Employed,9,91,69
-187,21,Male,School,16357,Student,0,80,93
-188,66,Male,Post Graduate,120762,Unemployed,41,69,65
-189,29,Male,Graduate,19012,Employed,3,93,80
-190,61,Female,Graduate,83062,Employed,29,52,78
-191,64,Female,Post Graduate,122200,Employed,41,100,72
-192,53,Female,Graduate,63867,Employed,19,73,82
-193,19,Male,Graduate,18611,Student,0,88,62
-194,20,Female,School,19089,Student,0,71,96
-195,60,Male,School,78204,Employed,24,66,88
-196,40,Male,Graduate,62230,Employed,17,65,74
-197,55,Male,School,59740,Unemployed,19,58,56
-198,34,Female,Post Graduate,34601,Employed,7,64,54
-199,23,Male,Post Graduate,26465,Unemployed,4,81,71
-200,37,Female,Graduate,31541,Employed,6,84,64
-201,45,Male,School,54122,Employed,15,60,64
-202,37,Male,Graduate,26292,Employed,6,85,62
-203,23,Male,Post Graduate,33137,Employed,8,69,84
-204,24,Female,Post Graduate,23342,Employed,4,56,41
-205,43,Female,Post Graduate,32984,Unemployed,6,58,67
-206,69,Female,School,91202,Employed,30,89,99
-207,41,Male,Graduate,32936,Unemployed,9,62,52
-208,37,Female,School,31675,Unemployed,6,69,41
-209,42,Male,Graduate,45971,Unemployed,11,97,77
-210,35,Male,Graduate,37561,Unemployed,9,86,91
-211,55,Female,Post Graduate,58517,Employed,16,53,87
-212,64,Female,School,75030,Unemployed,24,56,54
-213,68,Female,School,93443,Unemployed,32,98,45
-214,43,Male,Graduate,33123,Employed,6,76,58
-215,28,Female,School,24947,Unemployed,4,68,72
-216,46,Male,School,69454,Unemployed,23,62,52
-217,35,Female,School,34027,Unemployed,9,93,95
-218,26,Male,Post Graduate,21430,Unemployed,1,61,81
-219,22,Male,Post Graduate,15000,Student,0,61,86
-220,38,Female,School,27052,Unemployed,6,86,43
-221,63,Female,Post Graduate,114191,Unemployed,38,91,40
-222,20,Male,Graduate,16099,Student,0,66,40
-223,45,Male,School,24093,Unemployed,5,63,48
-224,40,Male,Graduate,24226,Unemployed,5,57,59
-225,46,Female,School,32453,Employed,5,86,65
-226,25,Male,Graduate,22276,Unemployed,3,92,54
-227,26,Female,Graduate,18130,Unemployed,3,59,72
-228,45,Female,Graduate,45919,Employed,11,76,94
-229,31,Male,Graduate,25798,Employed,5,88,51
-230,21,Male,Post Graduate,19714,Student,0,64,98
-231,46,Male,Graduate,32262,Employed,5,74,89
-232,18,Male,School,15000,Student,0,67,50
-233,48,Female,Post Graduate,72756,Unemployed,25,56,75
-234,59,Female,Graduate,99872,Unemployed,35,76,61
-235,58,Male,Graduate,82958,Employed,26,69,60
-236,45,Female,Post Graduate,42307,Unemployed,9,67,42
-237,27,Female,School,24724,Employed,2,84,40
-238,52,Male,Graduate,41445,Employed,11,50,45
-239,66,Female,Graduate,77360,Employed,25,89,57
-240,46,Female,Post Graduate,33741,Unemployed,8,87,50
-241,57,Female,Post Graduate,69924,Unemployed,23,69,63
-242,65,Female,Graduate,86206,Employed,28,51,43
-243,68,Male,School,96677,Unemployed,34,58,60
-244,62,Female,Post Graduate,103950,Employed,36,55,68
-245,69,Female,Post Graduate,39729,Employed,11,57,95
-246,52,Male,School,86648,Unemployed,30,92,93
-247,61,Female,Graduate,42384,Employed,9,69,76
-248,25,Male,Post Graduate,34047,Employed,7,65,84
-249,21,Male,Graduate,15000,Student,0,65,93
-250,56,Male,Post Graduate,85283,Employed,27,56,79
-251,56,Female,School,35196,Employed,10,61,78
-252,51,Male,School,48255,Employed,14,52,71
-253,62,Female,Graduate,41287,Unemployed,9,65,48
-254,55,Female,Post Graduate,96701,Unemployed,32,58,45
-255,24,Male,School,22075,Unemployed,4,80,60
-256,30,Male,Post Graduate,37961,Unemployed,8,58,66
-257,28,Male,Graduate,18014,Unemployed,0,97,79
-258,28,Male,Post Graduate,29243,Unemployed,7,89,97
-259,61,Female,Post Graduate,55562,Employed,17,94,49
-260,55,Female,Post Graduate,81585,Unemployed,27,55,80
-261,34,Female,School,38177,Employed,11,59,40
-262,27,Male,Post Graduate,29333,Employed,7,86,90
-263,31,Male,Graduate,30577,Employed,8,63,41
-264,67,Male,Graduate,32860,Employed,7,96,94
-265,25,Female,Post Graduate,15000,Employed,1,97,42
-266,54,Male,Post Graduate,88124,Unemployed,29,53,68
-267,43,Male,School,67308,Unemployed,20,94,100
-268,37,Female,Post Graduate,25704,Unemployed,5,79,98
-269,61,Male,Post Graduate,76762,Employed,23,60,41
-270,40,Male,Post Graduate,40919,Employed,11,80,78
-271,35,Male,Graduate,31311,Employed,8,93,99
-272,70,Male,School,55318,Employed,16,81,96
-273,43,Female,School,35285,Employed,7,51,76
-274,53,Female,School,67127,Unemployed,19,65,90
-275,58,Female,Post Graduate,26717,Employed,6,89,94
-276,59,Male,Graduate,98475,Unemployed,33,87,79
-277,53,Male,Graduate,86865,Unemployed,27,90,69
-278,51,Female,School,28673,Unemployed,5,85,72
-279,37,Male,School,35687,Unemployed,10,81,51
-280,18,Female,Post Graduate,15000,Student,0,55,80
-281,24,Male,Post Graduate,35229,Employed,7,88,43
-282,33,Male,Graduate,36565,Unemployed,9,68,80
-283,26,Female,School,15872,Unemployed,2,77,56
-284,62,Male,School,105088,Unemployed,36,86,44
-285,21,Female,School,18185,Student,0,97,65
-286,68,Male,Post Graduate,36863,Unemployed,10,58,91
-287,63,Male,Post Graduate,44471,Unemployed,11,67,87
-288,66,Male,Graduate,69272,Employed,23,87,41
-289,60,Female,Post Graduate,52384,Unemployed,14,51,80
-290,55,Female,Graduate,44165,Unemployed,10,57,96
-291,33,Male,School,26551,Unemployed,6,64,96
-292,70,Female,Post Graduate,74750,Unemployed,22,86,41
-293,40,Male,School,35433,Unemployed,7,92,92
-294,52,Male,Graduate,43019,Employed,10,69,58
-295,59,Male,Graduate,99977,Employed,35,77,70
-296,34,Male,Post Graduate,31909,Unemployed,8,64,46
-297,54,Male,Post Graduate,28369,Employed,6,66,59
-298,24,Male,School,29657,Unemployed,6,84,68
-299,36,Male,Graduate,42094,Employed,12,99,60
-300,54,Female,Graduate,75780,Employed,24,63,97
-301,49,Male,School,42006,Unemployed,10,57,74
-302,41,Male,Post Graduate,41575,Unemployed,9,61,55
-303,64,Male,School,65238,Employed,19,60,63
-304,64,Male,School,99718,Employed,34,95,60
-305,40,Male,School,30362,Unemployed,6,59,75
-306,35,Male,School,32863,Unemployed,7,68,82
-307,50,Male,Post Graduate,53379,Employed,16,74,42
-308,31,Male,Post Graduate,27569,Employed,7,99,94
-309,43,Female,Graduate,64358,Unemployed,20,80,42
-310,63,Female,Post Graduate,99960,Unemployed,34,90,52
-311,55,Male,School,25550,Employed,6,97,93
-312,38,Male,Post Graduate,27949,Unemployed,7,93,98
-313,23,Female,School,17098,Unemployed,1,54,42
-314,56,Female,School,31648,Unemployed,6,50,71
-315,61,Male,School,108264,Unemployed,39,97,93
-316,62,Male,Graduate,61004,Employed,20,100,80
-317,25,Female,Post Graduate,24810,Unemployed,4,81,60
-318,20,Male,School,15000,Student,0,87,87
-319,51,Female,School,77715,Employed,25,56,71
-320,38,Male,Post Graduate,47801,Employed,15,98,90
-321,47,Female,Graduate,42356,Employed,9,97,87
-322,58,Male,Post Graduate,46639,Unemployed,12,93,82
-323,29,Female,Post Graduate,33429,Unemployed,7,67,50
-324,48,Female,School,27013,Unemployed,6,92,69
-325,50,Female,Graduate,63507,Employed,20,100,96
-326,43,Male,Graduate,31536,Employed,6,92,60
-327,31,Male,School,39574,Unemployed,9,83,55
-328,31,Female,Graduate,28385,Employed,7,93,82
-329,21,Female,Graduate,18654,Student,0,87,99
-330,52,Male,Post Graduate,79793,Unemployed,27,85,76
-331,35,Female,Post Graduate,41169,Employed,9,54,83
-332,22,Male,School,16648,Student,0,92,63
-333,65,Male,School,33760,Unemployed,8,78,75
-334,58,Female,Graduate,48906,Unemployed,14,54,42
-335,43,Female,Post Graduate,57426,Employed,17,69,46
-336,70,Male,School,54315,Unemployed,15,63,75
-337,20,Male,Post Graduate,15000,Student,0,90,88
-338,28,Female,Graduate,30039,Employed,7,68,82
-339,36,Female,Post Graduate,47136,Unemployed,14,56,52
-340,55,Female,School,69476,Employed,23,66,99
-341,23,Male,Post Graduate,25437,Unemployed,6,96,61
-342,39,Male,Graduate,39128,Employed,10,59,52
-343,29,Female,Graduate,30084,Unemployed,6,63,72
-344,59,Male,Graduate,44765,Unemployed,11,72,68
-345,25,Male,Graduate,36574,Unemployed,8,75,79
-346,48,Male,School,67145,Unemployed,22,72,93
-347,40,Female,School,44459,Employed,10,84,59
-348,50,Female,Graduate,68944,Employed,23,74,49
-349,18,Female,Post Graduate,15000,Student,0,76,85
-350,54,Female,Graduate,58566,Unemployed,19,74,77
-351,27,Female,Graduate,20596,Unemployed,1,56,90
-352,26,Male,School,30216,Employed,5,60,87
-353,29,Female,Graduate,21009,Unemployed,3,71,78
-354,50,Male,Post Graduate,80094,Employed,26,54,100
-355,31,Male,School,31590,Unemployed,6,89,61
-356,27,Male,Graduate,23951,Unemployed,4,59,47
-357,66,Male,School,47909,Employed,14,90,57
-358,24,Female,Post Graduate,15000,Employed,1,92,50
-359,63,Female,Graduate,81924,Unemployed,28,96,40
-360,20,Male,School,15000,Student,0,90,61
-361,23,Male,Post Graduate,30592,Employed,6,90,68
-362,69,Male,Graduate,99578,Employed,34,72,52
-363,26,Male,School,15000,Employed,1,93,50
-364,38,Female,School,48233,Employed,13,58,74
-365,23,Male,Graduate,36087,Employed,7,86,71
-366,42,Female,Graduate,62249,Employed,19,81,58
-367,67,Female,School,108528,Employed,36,50,68
-368,45,Female,Graduate,49152,Employed,12,57,47
-369,20,Male,Post Graduate,15000,Student,0,53,41
-370,40,Male,Graduate,28516,Unemployed,7,52,97
-371,66,Male,Post Graduate,46252,Unemployed,12,56,61
-372,65,Male,School,45159,Unemployed,12,97,40
-373,31,Male,Post Graduate,22825,Unemployed,5,96,62
-374,69,Male,Graduate,97129,Unemployed,33,75,44
-375,25,Female,Post Graduate,15000,Unemployed,0,77,97
-376,65,Male,Graduate,76816,Employed,24,63,48
-377,56,Male,Graduate,92303,Unemployed,32,100,64
-378,36,Female,School,40139,Employed,10,82,42
-379,50,Male,Graduate,60740,Employed,17,86,55
-380,44,Male,School,27705,Employed,5,92,55
-381,35,Male,School,26785,Unemployed,6,62,73
-382,51,Male,Post Graduate,69890,Employed,22,94,40
-383,45,Female,Post Graduate,42887,Employed,11,94,100
-384,33,Male,Post Graduate,35463,Unemployed,10,51,80
-385,64,Female,Graduate,72995,Employed,22,97,68
-386,28,Female,Post Graduate,27959,Unemployed,6,72,42
-387,20,Female,Graduate,16798,Student,0,58,66
-388,70,Female,Graduate,80344,Employed,25,76,63
-389,19,Female,Graduate,15000,Student,0,50,97
-390,30,Male,Graduate,24095,Unemployed,4,98,59
-391,41,Male,Post Graduate,58003,Unemployed,17,53,73
-392,39,Female,School,37021,Employed,8,92,48
-393,51,Female,Post Graduate,64770,Unemployed,20,72,58
-394,68,Female,School,71441,Unemployed,21,56,97
-395,18,Male,School,15000,Student,0,69,43
-396,38,Male,Graduate,46619,Unemployed,11,92,40
-397,53,Female,Graduate,76365,Employed,24,89,84
-398,51,Female,Post Graduate,62582,Unemployed,21,55,87
-399,58,Male,Graduate,89425,Employed,29,90,55
-400,50,Male,Graduate,39060,Employed,9,99,95
-401,56,Male,Post Graduate,25195,Employed,6,89,99
-402,58,Male,Post Graduate,61254,Employed,17,59,73
-403,62,Male,School,114460,Employed,39,50,80
-404,69,Female,School,36779,Employed,10,58,55
-405,55,Male,Post Graduate,88103,Unemployed,28,60,51
-406,63,Female,Graduate,87054,Employed,30,62,63
-407,48,Female,School,63152,Employed,19,82,57
-408,52,Male,Post Graduate,33185,Employed,7,90,72
-409,44,Male,School,27631,Unemployed,5,97,62
-410,33,Female,School,33531,Unemployed,7,55,73
-411,38,Male,School,48042,Unemployed,12,54,76
-412,21,Male,Graduate,18763,Student,0,97,94
-413,34,Female,Post Graduate,29417,Employed,7,52,69
-414,52,Female,Post Graduate,70258,Unemployed,24,100,81
-415,21,Female,Post Graduate,16243,Student,0,79,87
-416,39,Male,School,27044,Employed,6,57,83
-417,24,Female,Graduate,28492,Employed,4,66,99
-418,48,Male,School,78356,Employed,24,85,61
-419,56,Male,School,76547,Unemployed,26,58,77
-420,23,Female,School,28492,Employed,6,96,70
-421,34,Male,Post Graduate,31474,Unemployed,7,69,85
-422,51,Female,School,66712,Unemployed,22,78,50
-423,33,Female,Post Graduate,24740,Employed,5,75,56
-424,46,Female,Post Graduate,53702,Employed,17,67,80
-425,25,Male,Graduate,28856,Unemployed,4,73,87
-426,33,Male,Post Graduate,30380,Employed,7,58,64
-427,61,Female,Graduate,37618,Unemployed,11,87,40
-428,28,Female,School,18203,Unemployed,2,65,96
-429,47,Male,Graduate,78969,Employed,24,76,96
-430,64,Male,Post Graduate,70309,Unemployed,24,70,75
-431,40,Male,Graduate,24326,Unemployed,5,58,65
-432,70,Female,Post Graduate,35494,Employed,8,50,55
-433,47,Female,School,35967,Unemployed,7,77,81
-434,60,Male,School,92016,Unemployed,31,95,81
-435,28,Female,School,18947,Employed,2,99,52
-436,56,Male,Graduate,94511,Unemployed,30,65,50
-437,31,Female,School,30057,Unemployed,8,64,59
-438,38,Male,Graduate,31708,Unemployed,5,74,61
-439,52,Male,Post Graduate,71205,Employed,21,64,88
-440,56,Male,Graduate,68265,Employed,23,60,100
-441,21,Female,School,17934,Student,0,51,75
-442,46,Male,School,34764,Employed,9,67,86
-443,48,Female,Graduate,29722,Unemployed,7,86,45
-444,63,Female,School,90683,Employed,29,82,97
-445,24,Female,Post Graduate,15750,Employed,1,76,93
-446,28,Female,Post Graduate,34394,Unemployed,8,99,50
-447,66,Female,Post Graduate,70225,Employed,22,62,55
-448,50,Male,Graduate,77345,Unemployed,23,68,51
-449,58,Male,School,74480,Unemployed,22,59,76
-450,46,Female,Graduate,73087,Unemployed,24,56,79
-451,24,Male,Graduate,23093,Employed,3,97,75
-452,56,Male,Post Graduate,94044,Employed,32,54,86
-453,18,Male,School,15000,Student,0,59,56
-454,47,Female,School,60624,Unemployed,19,56,59
-455,58,Female,Post Graduate,44162,Unemployed,11,50,48
-456,24,Male,School,20073,Unemployed,1,99,44
-457,65,Male,Graduate,103939,Employed,35,95,52
-458,66,Male,School,113171,Employed,39,53,47
-459,46,Female,Graduate,30925,Employed,6,50,88
-460,59,Female,Post Graduate,26855,Employed,5,61,45
-461,44,Male,Graduate,64071,Employed,19,97,69
-462,59,Female,Post Graduate,55202,Employed,18,89,57
-463,59,Female,Graduate,41206,Employed,11,61,86
-464,70,Female,Graduate,126197,Unemployed,46,53,56
-465,43,Male,Graduate,49412,Employed,12,80,88
-466,44,Male,Post Graduate,69697,Employed,21,77,91
-467,30,Female,School,19372,Employed,3,74,56
-468,59,Male,Graduate,30736,Employed,6,65,85
-469,54,Male,Graduate,71500,Unemployed,22,70,97
-470,25,Female,Post Graduate,28916,Employed,6,70,43
-471,18,Female,Post Graduate,15000,Student,0,89,67
-472,63,Female,School,82906,Employed,28,94,64
-473,60,Male,School,68737,Unemployed,23,97,45
-474,70,Female,Post Graduate,65906,Employed,21,57,74
-475,53,Female,Post Graduate,75786,Employed,24,58,64
-476,64,Male,School,79796,Employed,24,51,84
-477,20,Male,School,15000,Student,0,61,45
-478,25,Female,Post Graduate,24728,Unemployed,4,93,43
-479,51,Female,Graduate,63228,Employed,21,61,79
-480,69,Female,Post Graduate,39140,Employed,8,92,41
-481,26,Male,School,28991,Unemployed,6,94,91
-482,19,Female,Graduate,15000,Student,0,98,97
-483,37,Male,School,45820,Unemployed,14,90,86
-484,64,Female,School,69628,Employed,20,59,56
-485,67,Female,Graduate,37480,Employed,7,89,68
-486,57,Male,Graduate,36245,Unemployed,8,66,88
-487,57,Female,School,69272,Employed,23,71,79
-488,44,Female,School,59020,Unemployed,18,51,44
-489,28,Male,Graduate,18027,Unemployed,3,59,53
-490,31,Male,Post Graduate,29696,Unemployed,7,65,75
-491,25,Female,Graduate,24859,Employed,2,64,93
-492,40,Male,Graduate,47361,Unemployed,14,71,45
-493,22,Female,School,15000,Student,0,89,77
-494,70,Female,School,88757,Unemployed,31,96,97
-495,66,Female,School,79572,Employed,25,79,64
-496,53,Female,School,40683,Employed,10,65,49
-497,58,Female,Post Graduate,88095,Employed,31,72,53
-498,50,Female,School,50250,Employed,14,94,67
-499,64,Male,Post Graduate,119616,Unemployed,42,88,87
-500,30,Male,Graduate,24019,Employed,4,78,45
-501,48,Female,Graduate,33538,Employed,7,79,95
-502,69,Male,School,128206,Employed,47,89,50
-503,37,Male,Graduate,30195,Employed,6,55,68
-504,24,Male,Post Graduate,35431,Employed,8,84,61
-505,23,Female,Graduate,32961,Employed,6,60,99
-506,64,Male,Post Graduate,55691,Employed,18,98,90
-507,35,Female,Graduate,38431,Unemployed,11,52,66
-508,64,Male,Graduate,89824,Unemployed,31,60,51
-509,54,Male,School,37434,Unemployed,7,85,40
-510,68,Male,Graduate,68167,Employed,22,94,65
-511,28,Female,Graduate,19881,Unemployed,2,87,49
-512,39,Male,Graduate,35275,Unemployed,10,82,88
-513,48,Female,Graduate,53967,Unemployed,16,68,49
-514,61,Male,Graduate,58547,Employed,17,51,95
-515,21,Female,Post Graduate,18632,Student,0,88,76
-516,66,Male,Graduate,126995,Unemployed,44,77,79
-517,32,Male,School,43408,Unemployed,10,55,63
-518,33,Male,School,39588,Employed,9,55,100
-519,63,Male,Post Graduate,103181,Unemployed,34,52,50
-520,30,Male,Graduate,21093,Employed,1,96,91
-521,59,Male,School,44076,Unemployed,13,83,45
-522,59,Female,Graduate,95771,Employed,32,78,59
-523,37,Female,Graduate,47380,Unemployed,12,98,96
-524,69,Male,Graduate,87063,Employed,30,64,88
-525,64,Female,Graduate,69262,Employed,21,99,82
-526,46,Male,Post Graduate,48547,Employed,14,85,66
-527,28,Male,Post Graduate,28451,Employed,4,98,74
-528,53,Male,School,67963,Unemployed,23,62,42
-529,33,Female,Post Graduate,35532,Unemployed,8,66,42
-530,26,Female,School,21744,Employed,3,74,97
-531,26,Male,Graduate,19274,Employed,3,85,84
-532,33,Male,School,36845,Unemployed,7,64,55
-533,54,Male,Post Graduate,72711,Unemployed,23,65,88
-534,68,Female,School,60282,Employed,17,82,76
-535,60,Female,School,87941,Unemployed,31,93,48
-536,42,Male,Post Graduate,25014,Unemployed,6,88,71
-537,32,Female,Graduate,32795,Employed,8,86,79
-538,41,Male,School,41181,Employed,11,79,63
-539,68,Male,Graduate,111357,Unemployed,40,50,96
-540,18,Male,School,15000,Student,0,62,65
-541,66,Male,Post Graduate,72743,Unemployed,25,96,79
-542,48,Male,Graduate,80092,Employed,25,99,63
-543,27,Male,Post Graduate,17772,Employed,1,64,48
-544,48,Female,School,49897,Employed,14,79,80
-545,41,Male,Post Graduate,25787,Employed,5,75,49
-546,29,Female,Graduate,24247,Employed,2,53,49
-547,60,Male,School,105990,Employed,35,58,70
-548,65,Male,Graduate,86977,Employed,29,59,92
-549,28,Male,School,26145,Employed,3,60,54
-550,22,Female,Post Graduate,15000,Student,0,75,91
-551,64,Male,School,57106,Employed,15,61,40
-552,52,Male,School,88607,Employed,28,80,88
-553,36,Female,School,32768,Employed,6,87,55
-554,48,Male,Post Graduate,67085,Unemployed,19,61,78
-555,62,Male,Post Graduate,33574,Employed,9,82,49
-556,61,Male,School,50118,Employed,13,61,48
-557,19,Female,Post Graduate,15158,Student,0,94,86
-558,38,Male,School,28892,Unemployed,6,57,90
-559,49,Female,Post Graduate,58915,Unemployed,16,55,55
-560,35,Male,School,36122,Employed,10,89,44
-561,48,Male,Graduate,74148,Employed,22,80,84
-562,44,Female,Graduate,67326,Unemployed,20,88,80
-563,25,Male,Post Graduate,15000,Employed,0,87,89
-564,18,Male,Graduate,19714,Student,0,97,55
-565,57,Male,Graduate,57190,Employed,18,90,59
-566,50,Female,Post Graduate,45814,Employed,12,51,74
-567,40,Female,Post Graduate,50959,Unemployed,13,62,70
-568,33,Female,Post Graduate,35165,Employed,9,65,62
-569,50,Male,Graduate,43547,Employed,11,59,44
-570,44,Female,Graduate,28835,Employed,7,62,65
-571,59,Male,Graduate,79547,Unemployed,26,78,91
-572,34,Female,Graduate,37669,Employed,10,77,44
-573,52,Female,School,74278,Unemployed,25,95,46
-574,36,Male,School,34273,Employed,9,87,66
-575,23,Male,School,19761,Employed,2,56,76
-576,54,Male,Post Graduate,53391,Employed,15,67,81
-577,67,Male,Graduate,104938,Employed,35,60,73
-578,38,Female,Graduate,31920,Unemployed,8,73,40
-579,19,Female,Post Graduate,15000,Student,0,64,97
-580,64,Female,School,35511,Unemployed,10,73,90
-581,21,Male,School,17905,Student,0,56,96
-582,61,Male,School,71298,Employed,24,90,73
-583,39,Female,Post Graduate,56294,Unemployed,16,74,86
-584,57,Male,Post Graduate,59509,Employed,18,64,93
-585,67,Female,Graduate,83736,Unemployed,27,79,46
-586,45,Female,Graduate,46123,Employed,14,83,57
-587,47,Male,Graduate,45241,Employed,13,51,76
-588,59,Male,Post Graduate,44539,Unemployed,11,58,66
-589,43,Female,Post Graduate,41560,Employed,11,70,60
-590,61,Female,Post Graduate,47046,Unemployed,13,69,58
-591,44,Female,Graduate,64984,Employed,18,93,41
-592,20,Female,Graduate,15000,Student,0,74,74
-593,52,Female,Post Graduate,37152,Employed,7,79,42
-594,20,Female,School,15144,Student,0,81,60
-595,32,Female,School,41621,Employed,10,90,53
-596,21,Male,Post Graduate,15000,Student,0,84,80
-597,38,Female,School,47919,Employed,15,55,55
-598,50,Male,Graduate,47928,Employed,13,83,59
-599,51,Male,Post Graduate,52271,Unemployed,13,97,55
-600,24,Male,Graduate,27356,Employed,4,87,59
-601,33,Female,Graduate,36601,Employed,8,60,47
-602,54,Male,School,79841,Unemployed,24,53,78
-603,50,Male,School,58028,Employed,18,98,48
-604,58,Female,School,75791,Employed,25,84,41
-605,69,Female,Graduate,76885,Employed,24,54,70
-606,61,Female,School,50111,Employed,14,88,77
-607,33,Male,School,33668,Employed,6,70,47
-608,39,Female,Post Graduate,52300,Employed,13,88,63
-609,63,Male,Post Graduate,50790,Employed,15,55,68
-610,36,Female,Post Graduate,31977,Employed,6,85,63
-611,36,Female,School,31959,Unemployed,5,64,50
-612,42,Male,Graduate,67929,Employed,20,97,49
-613,26,Female,School,23895,Unemployed,5,74,50
-614,68,Female,School,68028,Employed,20,78,67
-615,22,Male,Post Graduate,19807,Student,0,76,62
-616,63,Female,Graduate,29354,Employed,7,65,40
-617,46,Male,Post Graduate,64430,Unemployed,19,63,89
-618,61,Female,Post Graduate,74089,Unemployed,24,59,54
-619,31,Female,School,34873,Unemployed,8,96,47
-620,49,Male,Graduate,48700,Employed,12,78,98
-621,28,Male,Post Graduate,34819,Unemployed,8,73,40
-622,48,Male,Graduate,31857,Unemployed,7,70,97
-623,20,Male,Graduate,17665,Student,0,66,47
-624,23,Female,Post Graduate,17483,Unemployed,0,64,79
-625,68,Female,Graduate,96107,Unemployed,32,61,72
-626,55,Male,School,66032,Employed,19,66,89
-627,55,Female,School,25631,Employed,6,52,59
-628,36,Female,Post Graduate,44648,Employed,12,67,84
-629,29,Female,School,18261,Employed,0,75,78
-630,36,Female,Post Graduate,41372,Employed,10,73,73
-631,43,Female,Post Graduate,51144,Unemployed,14,76,52
-632,21,Female,School,15000,Student,0,94,98
-633,47,Male,Post Graduate,57743,Unemployed,16,88,54
-634,38,Male,School,59542,Unemployed,16,68,50
-635,38,Female,Graduate,41755,Unemployed,11,86,62
-636,56,Male,Post Graduate,58930,Employed,18,68,60
-637,36,Female,Post Graduate,39547,Unemployed,10,100,70
-638,47,Male,Post Graduate,71246,Employed,22,60,63
-639,61,Female,Post Graduate,32246,Employed,5,86,97
-640,28,Female,School,20190,Employed,3,81,40
-641,64,Female,School,109036,Unemployed,39,98,60
-642,69,Male,Graduate,119851,Employed,41,77,94
-643,34,Male,School,45303,Unemployed,12,61,52
-644,38,Female,Graduate,39509,Employed,8,91,41
-645,67,Male,Post Graduate,77489,Unemployed,23,74,55
-646,56,Female,Post Graduate,75571,Employed,24,60,48
-647,42,Female,Post Graduate,50589,Unemployed,15,61,78
-648,26,Female,School,18108,Employed,2,58,87
-649,40,Male,Post Graduate,41070,Employed,10,56,100
-650,66,Female,Graduate,77672,Employed,26,70,84
-651,37,Female,School,52519,Employed,14,71,68
-652,66,Female,Graduate,83377,Unemployed,27,63,90
-653,32,Female,Graduate,38889,Unemployed,8,88,41
-654,45,Female,Graduate,50089,Unemployed,14,68,83
-655,69,Female,School,133355,Employed,47,50,89
-656,53,Male,School,85042,Employed,29,89,99
-657,57,Male,School,43345,Employed,10,70,96
-658,26,Male,Post Graduate,31081,Employed,5,61,75
-659,24,Female,Graduate,32046,Employed,5,78,43
-660,66,Male,School,34231,Employed,7,79,83
-661,21,Female,Post Graduate,15000,Student,0,77,52
-662,52,Female,Post Graduate,37633,Unemployed,11,71,97
-663,35,Male,Graduate,26375,Employed,6,65,61
-664,63,Female,School,49365,Employed,13,59,57
-665,66,Male,Graduate,96177,Employed,32,76,61
-666,27,Male,Graduate,20912,Unemployed,2,81,92
-667,52,Female,Graduate,54195,Unemployed,16,59,49
-668,25,Male,Graduate,30117,Unemployed,8,63,48
-669,38,Male,Graduate,41992,Employed,10,74,88
-670,67,Male,School,94875,Employed,31,83,42
-671,69,Female,Post Graduate,90795,Unemployed,31,80,81
-672,49,Male,Graduate,83688,Employed,26,55,80
-673,60,Female,Post Graduate,83047,Employed,28,74,89
-674,26,Male,Graduate,26957,Employed,6,81,41
-675,41,Female,School,56228,Employed,15,74,44
-676,59,Female,School,97727,Employed,34,67,57
-677,34,Male,Post Graduate,46996,Unemployed,12,77,81
-678,60,Male,Post Graduate,32073,Employed,6,72,59
-679,41,Female,Post Graduate,46059,Unemployed,11,94,87
-680,55,Male,Post Graduate,97399,Employed,32,76,66
-681,40,Male,Post Graduate,28502,Employed,7,64,47
-682,47,Male,Post Graduate,49740,Unemployed,14,59,75
-683,19,Male,Post Graduate,15000,Student,0,69,91
-684,32,Male,Graduate,23545,Unemployed,5,89,55
-685,62,Female,School,46365,Employed,11,62,56
-686,50,Female,Post Graduate,42116,Unemployed,9,89,52
-687,42,Male,Graduate,55053,Employed,15,59,70
-688,42,Female,Graduate,45229,Unemployed,11,62,89
-689,23,Male,Graduate,15000,Employed,1,87,72
-690,65,Male,Post Graduate,84008,Employed,29,94,72
-691,64,Female,School,34110,Unemployed,8,50,80
-692,29,Male,Graduate,21286,Unemployed,4,71,48
-693,32,Male,School,29605,Employed,6,54,92
-694,62,Female,School,40645,Unemployed,9,56,49
-695,50,Male,School,44615,Employed,12,89,40
-696,59,Male,Post Graduate,86804,Unemployed,29,72,41
-697,45,Female,Post Graduate,37129,Unemployed,9,53,41
-698,44,Male,School,29598,Unemployed,7,64,81
-699,52,Male,School,22889,Employed,5,65,89
-700,23,Female,Post Graduate,15000,Employed,0,70,59
-701,60,Female,Post Graduate,70781,Employed,23,58,70
-702,61,Female,School,42821,Employed,12,100,66
-703,67,Female,Graduate,70412,Unemployed,24,91,41
-704,44,Female,Post Graduate,42050,Employed,11,74,47
-705,45,Female,Post Graduate,69387,Unemployed,23,87,100
-706,54,Male,Graduate,39885,Employed,9,88,40
-707,64,Female,Post Graduate,59044,Unemployed,17,95,59
-708,32,Male,Post Graduate,32571,Employed,9,68,73
-709,26,Female,School,20440,Employed,3,74,54
-710,36,Male,Post Graduate,30686,Employed,6,92,80
-711,54,Male,Graduate,87325,Employed,28,73,79
-712,63,Female,Post Graduate,96682,Unemployed,34,79,56
-713,38,Male,School,47245,Unemployed,14,57,41
-714,19,Male,School,15000,Student,0,55,90
-715,43,Male,Graduate,44560,Unemployed,10,76,100
-716,32,Female,School,32729,Employed,7,51,100
-717,29,Male,Graduate,33178,Employed,8,76,78
-718,51,Female,Post Graduate,66737,Employed,21,59,65
-719,65,Male,Post Graduate,49970,Employed,14,83,86
-720,24,Male,Graduate,22113,Employed,2,76,72
-721,62,Female,Graduate,66634,Employed,21,65,89
-722,33,Male,School,35413,Unemployed,10,75,49
-723,50,Male,Post Graduate,62325,Employed,18,53,73
-724,25,Male,Post Graduate,15714,Employed,0,84,66
-725,43,Male,Graduate,49165,Employed,15,50,49
-726,26,Male,School,18839,Employed,2,85,56
-727,39,Female,Post Graduate,51823,Employed,13,84,44
-728,44,Female,Graduate,32696,Unemployed,7,52,42
-729,36,Female,School,45855,Unemployed,12,97,65
-730,60,Female,School,36265,Unemployed,8,99,47
-731,54,Female,Post Graduate,62744,Employed,18,72,60
-732,39,Female,Post Graduate,42627,Unemployed,10,88,69
-733,62,Female,Graduate,54381,Unemployed,16,64,72
-734,40,Male,Graduate,51374,Unemployed,15,73,74
-735,30,Female,School,16724,Unemployed,2,100,88
-736,41,Female,Graduate,32476,Unemployed,5,62,65
-737,22,Female,School,18190,Student,0,61,68
-738,49,Male,Graduate,68292,Unemployed,21,77,61
-739,65,Male,School,54894,Unemployed,17,94,88
-740,61,Male,Graduate,41783,Unemployed,9,85,48
-741,44,Male,Graduate,70948,Employed,22,82,57
-742,26,Male,Post Graduate,18162,Unemployed,2,92,84
-743,31,Female,Post Graduate,30454,Employed,7,88,50
-744,45,Female,School,49800,Employed,15,85,100
-745,56,Male,Graduate,104783,Unemployed,34,77,64
-746,59,Male,School,33911,Employed,6,85,84
-747,34,Male,Post Graduate,34873,Unemployed,9,58,63
-748,64,Female,School,75007,Employed,26,94,68
-749,52,Male,School,59767,Employed,16,67,70
-750,44,Female,Graduate,25404,Unemployed,5,55,78
-751,52,Male,Post Graduate,51771,Employed,15,87,76
-752,57,Female,Post Graduate,81034,Employed,27,71,95
-753,19,Female,Post Graduate,15000,Student,0,70,73
-754,34,Female,Graduate,39305,Unemployed,8,83,55
-755,43,Male,School,60754,Employed,18,53,48
-756,50,Male,Post Graduate,70249,Employed,23,88,51
-757,27,Male,Graduate,19177,Employed,2,87,73
-758,21,Female,School,17092,Student,0,96,72
-759,28,Female,Post Graduate,21645,Unemployed,3,75,52
-760,31,Male,Post Graduate,35788,Unemployed,7,54,61
-761,34,Female,Graduate,23455,Unemployed,5,90,82
-762,49,Male,Graduate,35730,Employed,10,73,78
-763,30,Female,School,15000,Employed,1,86,41
-764,69,Female,Graduate,87362,Unemployed,29,50,54
-765,49,Male,Post Graduate,79606,Unemployed,25,58,99
-766,47,Male,School,30960,Unemployed,7,72,82
-767,30,Male,Graduate,31303,Unemployed,6,50,85
-768,35,Male,School,31386,Employed,5,55,61
-769,35,Female,Graduate,40482,Employed,11,100,84
-770,61,Female,School,77310,Unemployed,25,78,40
-771,28,Female,Post Graduate,20001,Unemployed,1,75,81
-772,67,Female,School,91947,Employed,32,90,51
-773,69,Female,Post Graduate,33225,Employed,9,60,52
-774,44,Female,Post Graduate,30482,Unemployed,5,62,77
-775,31,Male,Post Graduate,28581,Employed,6,51,99
-776,48,Male,Post Graduate,30183,Unemployed,6,92,86
-777,51,Male,Post Graduate,56733,Unemployed,15,51,84
-778,48,Male,Post Graduate,46275,Employed,11,73,65
-779,56,Female,Graduate,48278,Unemployed,14,67,44
-780,68,Female,Post Graduate,104048,Unemployed,36,79,49
-781,41,Female,Graduate,27651,Unemployed,7,81,98
-782,38,Female,School,57632,Unemployed,16,92,82
-783,68,Male,School,125558,Employed,44,95,92
-784,52,Female,Graduate,51461,Unemployed,16,90,83
-785,30,Female,Graduate,33471,Employed,7,82,55
-786,34,Male,Graduate,40410,Employed,12,73,57
-787,53,Female,School,78763,Unemployed,24,76,86
-788,67,Male,School,76419,Unemployed,26,65,85
-789,56,Male,Graduate,42771,Employed,10,79,70
-790,39,Male,School,26885,Unemployed,5,80,47
-791,18,Female,School,15000,Student,0,67,58
-792,26,Female,School,31141,Unemployed,8,87,45
-793,39,Male,School,51164,Employed,16,68,67
-794,30,Female,School,31910,Employed,6,58,45
-795,62,Male,School,72555,Unemployed,22,68,84
-796,32,Male,Graduate,33050,Unemployed,8,66,50
-797,38,Female,Post Graduate,39937,Unemployed,11,86,98
-798,57,Male,Post Graduate,91727,Employed,31,71,99
-799,48,Male,Post Graduate,68556,Employed,21,94,43
-800,35,Female,Post Graduate,30065,Unemployed,8,51,80
-801,62,Male,Post Graduate,85685,Employed,30,73,50
-802,30,Male,School,35834,Unemployed,7,59,83
-803,61,Female,School,86181,Employed,29,81,89
-804,30,Female,Graduate,15930,Employed,2,83,69
-805,28,Female,School,16824,Unemployed,1,81,64
-806,62,Female,Post Graduate,75330,Unemployed,25,96,56
-807,48,Female,Post Graduate,39900,Unemployed,10,89,43
-808,53,Female,Graduate,80084,Employed,25,89,79
-809,41,Female,School,51104,Employed,15,75,66
-810,29,Female,School,15000,Employed,1,82,76
-811,23,Male,Post Graduate,35931,Unemployed,7,99,75
-812,26,Male,Graduate,24042,Unemployed,4,62,60
-813,27,Male,School,15463,Employed,0,56,91
-814,24,Female,School,20899,Unemployed,1,52,56
-815,57,Male,Post Graduate,34619,Employed,7,88,56
-816,25,Male,School,23110,Employed,2,58,82
-817,33,Male,Graduate,43986,Unemployed,10,100,78
-818,20,Female,School,15000,Student,0,83,96
-819,60,Male,Graduate,41283,Employed,11,67,95
-820,55,Female,School,25686,Employed,6,52,80
-821,34,Female,Post Graduate,29585,Unemployed,6,66,52
-822,65,Male,Graduate,25596,Employed,6,76,73
-823,70,Female,Post Graduate,117941,Employed,43,80,58
-824,30,Female,Graduate,15419,Employed,0,77,83
-825,61,Male,School,69059,Unemployed,21,50,97
-826,51,Male,School,72332,Unemployed,23,78,49
-827,36,Male,School,40369,Unemployed,12,90,81
-828,29,Female,School,17451,Unemployed,1,74,49
-829,32,Male,Post Graduate,31817,Employed,8,93,47
-830,44,Male,School,51950,Unemployed,14,72,85
-831,23,Female,School,15000,Employed,0,58,63
-832,59,Male,Graduate,68341,Employed,23,58,62
-833,57,Female,Post Graduate,99940,Employed,34,90,45
-834,57,Male,School,52376,Employed,13,61,90
-835,22,Male,School,15000,Student,0,51,49
-836,33,Male,Graduate,22533,Employed,5,80,69
-837,59,Male,Post Graduate,79328,Unemployed,27,100,96
-838,68,Female,Graduate,29804,Unemployed,6,70,79
-839,59,Male,Post Graduate,62787,Employed,18,81,54
-840,68,Male,Graduate,76573,Unemployed,26,94,60
-841,34,Male,Post Graduate,46083,Unemployed,12,82,95
-842,59,Male,School,44183,Employed,10,52,51
-843,49,Male,Graduate,68009,Unemployed,22,81,69
-844,29,Female,School,19894,Employed,0,58,62
-845,70,Female,Graduate,112991,Unemployed,39,69,84
-846,68,Male,School,100305,Unemployed,36,73,48
-847,67,Female,Post Graduate,117432,Employed,41,91,96
-848,70,Female,Post Graduate,133511,Unemployed,47,94,88
-849,65,Male,School,30059,Unemployed,5,60,64
-850,20,Female,Graduate,15000,Student,0,50,97
-851,70,Female,Graduate,33458,Unemployed,6,58,61
-852,45,Male,School,53874,Employed,16,83,96
-853,64,Male,Graduate,29436,Employed,5,65,90
-854,23,Female,Graduate,21303,Employed,4,67,86
-855,50,Male,Post Graduate,33793,Employed,6,51,49
-856,23,Female,School,28198,Unemployed,6,57,72
-857,41,Female,School,49956,Employed,14,54,69
-858,49,Male,School,64221,Employed,19,95,85
-859,27,Male,Graduate,15043,Unemployed,2,84,70
-860,52,Female,School,25641,Employed,6,79,70
-861,28,Male,Post Graduate,23534,Employed,5,95,84
-862,55,Male,Graduate,77682,Unemployed,25,95,95
-863,28,Female,Graduate,25243,Employed,6,51,55
-864,21,Male,Post Graduate,17694,Student,0,76,99
-865,51,Female,Post Graduate,59874,Unemployed,19,96,71
-866,41,Male,School,58880,Employed,17,86,54
-867,27,Male,Graduate,21278,Employed,3,84,68
-868,49,Male,Graduate,40139,Unemployed,12,90,57
-869,45,Female,School,74777,Employed,22,96,67
-870,31,Female,School,33746,Unemployed,7,69,66
-871,60,Male,School,28783,Unemployed,6,75,84
-872,69,Male,Post Graduate,104365,Unemployed,34,67,60
-873,40,Male,School,29662,Employed,5,98,79
-874,33,Female,Post Graduate,30939,Unemployed,7,85,89
-875,24,Male,School,15000,Employed,0,85,69
-876,59,Male,Post Graduate,101898,Unemployed,34,53,91
-877,63,Female,Graduate,47954,Unemployed,12,78,73
-878,47,Female,School,45327,Employed,12,63,59
-879,31,Female,Graduate,41663,Unemployed,9,72,74
-880,54,Male,Graduate,68544,Employed,23,93,58
-881,27,Male,School,21829,Unemployed,1,98,73
-882,22,Female,Graduate,18125,Student,0,53,91
-883,39,Female,Post Graduate,41982,Employed,9,85,48
-884,27,Female,Graduate,26211,Unemployed,4,86,53
-885,54,Female,Graduate,94420,Employed,31,98,60
-886,62,Male,Post Graduate,103607,Unemployed,37,97,78
-887,19,Female,Post Graduate,18449,Student,0,72,56
-888,41,Male,School,39857,Employed,8,71,97
-889,60,Female,Post Graduate,51960,Employed,14,54,45
-890,43,Male,Graduate,49817,Unemployed,13,53,87
-891,18,Female,Post Graduate,15000,Student,0,70,100
-892,61,Male,School,99621,Unemployed,33,55,47
-893,46,Male,Post Graduate,37910,Unemployed,10,54,81
-894,58,Male,School,33322,Unemployed,7,69,100
-895,33,Female,Graduate,38037,Unemployed,9,70,56
-896,53,Female,School,63946,Employed,18,83,90
-897,22,Male,Graduate,15000,Student,0,61,57
-898,43,Female,Post Graduate,60683,Employed,20,95,47
-899,48,Male,School,43706,Unemployed,12,95,42
-900,48,Female,Post Graduate,76270,Employed,23,96,55
-901,46,Female,School,29432,Employed,5,76,88
-902,45,Female,Post Graduate,54823,Unemployed,15,69,59
-903,23,Male,Graduate,27568,Employed,4,50,86
-904,65,Female,Graduate,79790,Unemployed,25,54,98
-905,48,Female,School,53646,Employed,17,83,59
-906,30,Male,Post Graduate,23237,Unemployed,5,97,98
-907,60,Female,School,45497,Employed,14,95,42
-908,26,Female,Post Graduate,33126,Employed,6,55,80
-909,25,Female,School,19819,Employed,0,84,61
-910,50,Male,School,30740,Employed,8,54,64
-911,45,Female,Post Graduate,52485,Employed,14,80,95
-912,66,Female,School,58071,Unemployed,17,56,93
-913,50,Female,Graduate,66941,Unemployed,22,60,63
-914,41,Male,Graduate,56320,Employed,16,63,45
-915,35,Female,Post Graduate,39717,Employed,11,66,74
-916,68,Female,Post Graduate,66143,Employed,20,79,48
-917,51,Male,School,31038,Employed,8,93,95
-918,30,Female,Graduate,25115,Unemployed,6,75,44
-919,37,Female,Graduate,30270,Employed,6,96,63
-920,29,Female,Post Graduate,28228,Employed,4,54,63
-921,30,Male,Post Graduate,20328,Unemployed,3,58,97
-922,33,Female,Graduate,30665,Unemployed,5,91,76
-923,19,Female,School,15000,Student,0,84,60
-924,27,Female,Graduate,20882,Employed,2,57,81
-925,48,Female,Graduate,64162,Unemployed,19,88,80
-926,30,Female,School,29382,Unemployed,6,72,83
-927,19,Female,Post Graduate,15000,Student,0,91,52
-928,47,Male,School,44759,Unemployed,11,81,57
-929,70,Male,School,80314,Employed,26,89,53
-930,70,Female,Post Graduate,122097,Employed,43,52,76
-931,54,Female,Graduate,94128,Employed,31,73,47
-932,38,Male,Graduate,33938,Unemployed,7,62,81
-933,40,Female,School,30046,Employed,6,76,80
-934,68,Female,Post Graduate,75418,Unemployed,23,83,68
-935,27,Female,Graduate,15000,Unemployed,1,71,49
-936,29,Male,Graduate,35760,Unemployed,8,100,50
-937,18,Female,School,15000,Student,0,88,54
-938,46,Male,School,40640,Employed,10,80,96
-939,65,Female,Post Graduate,70878,Unemployed,21,95,52
-940,46,Male,Post Graduate,43137,Unemployed,12,76,44
-941,30,Male,School,21964,Unemployed,1,65,80
-942,50,Female,School,73612,Employed,22,65,96
-943,48,Male,School,43790,Unemployed,12,89,82
-944,31,Male,Graduate,32976,Employed,7,100,60
-945,43,Male,Graduate,27238,Employed,6,55,85
-946,33,Female,Graduate,35641,Employed,9,52,83
-947,55,Male,Graduate,48978,Employed,15,81,46
-948,70,Male,School,71373,Unemployed,23,69,72
-949,25,Male,Graduate,31336,Unemployed,5,74,42
-950,40,Male,School,43074,Unemployed,10,52,71
-951,32,Female,School,36988,Employed,7,80,73
-952,23,Female,Graduate,29376,Unemployed,5,62,63
-953,57,Male,Post Graduate,55267,Unemployed,15,57,42
-954,65,Male,Post Graduate,55778,Employed,16,71,69
-955,57,Female,School,74156,Employed,23,95,72
-956,24,Male,Graduate,16085,Employed,2,85,59
-957,49,Male,Graduate,66159,Unemployed,21,86,81
-958,56,Male,Graduate,24219,Employed,5,88,53
-959,20,Female,School,15000,Student,0,95,83
-960,30,Male,Post Graduate,15000,Unemployed,0,68,55
-961,32,Female,School,37260,Unemployed,7,73,98
-962,59,Female,Graduate,108748,Employed,37,55,93
-963,19,Male,Post Graduate,15000,Student,0,90,70
-964,27,Male,School,32299,Unemployed,7,91,60
-965,43,Female,Post Graduate,34220,Employed,6,87,45
-966,21,Female,Post Graduate,15000,Student,0,83,79
-967,43,Male,Post Graduate,34100,Employed,8,51,88
-968,21,Male,Post Graduate,15000,Student,0,78,47
-969,27,Male,Graduate,26829,Unemployed,3,84,69
-970,28,Female,School,15000,Employed,0,71,94
-971,36,Female,Post Graduate,32137,Employed,8,65,81
-972,52,Female,Graduate,43439,Employed,11,83,77
-973,48,Male,Graduate,38407,Employed,11,50,49
-974,53,Male,School,71573,Employed,22,73,100
-975,27,Female,Graduate,29813,Employed,4,65,70
-976,51,Female,Graduate,49898,Employed,12,83,65
-977,36,Male,Post Graduate,39512,Unemployed,10,95,43
-978,31,Male,Post Graduate,30224,Employed,5,59,97
-979,35,Male,School,35986,Employed,9,53,63
-980,24,Male,Post Graduate,15000,Unemployed,0,62,94
-981,62,Female,Graduate,48499,Employed,15,91,54
-982,23,Male,Post Graduate,24991,Unemployed,2,60,51
-983,53,Female,Post Graduate,61923,Employed,18,62,86
-984,50,Male,Post Graduate,31829,Employed,8,89,93
-985,49,Male,Graduate,64049,Employed,18,96,49
-986,54,Female,Graduate,38020,Employed,10,93,79
-987,22,Male,School,15000,Student,0,99,100
-988,66,Female,School,109632,Unemployed,36,53,70
-989,62,Male,Graduate,105866,Unemployed,38,70,54
-990,27,Male,Graduate,15000,Unemployed,0,74,67
-991,46,Male,Graduate,58253,Employed,18,95,57
-992,53,Male,Graduate,93589,Unemployed,30,50,66
-993,68,Male,Graduate,32221,Employed,6,51,62
-994,25,Male,School,29201,Employed,7,74,59
-995,28,Female,Post Graduate,22162,Unemployed,3,69,82
-996,55,Female,Post Graduate,87591,Employed,30,96,73
-997,33,Male,School,38955,Employed,10,53,84
-998,62,Female,Graduate,75166,Employed,23,88,98
-999,66,Female,Post Graduate,70827,Employed,24,80,54
-1000,61,Male,Post Graduate,58162,Unemployed,16,95,73
+1,41,Female,Post Graduate,27525,Employed,6,63,59
+2,31,Female,Graduate,33626,Employed,9,72,93
+3,52,Male,Post Graduate,65083,Unemployed,19,86,75
+4,24,Female,Post Graduate,32721,Unemployed,6,62,48
+5,54,Female,Graduate,69434,Employed,22,87,64
+6,62,Female,School,111507,Employed,39,63,81
+7,48,Female,School,42243,Unemployed,9,98,57
+8,56,Male,Post Graduate,58409,Employed,19,59,75
+9,46,Male,School,42246,Unemployed,9,53,81
+10,52,Male,Graduate,66578,Unemployed,20,91,52
+11,55,Male,School,95234,Employed,32,98,67
+12,26,Female,Post Graduate,23171,Employed,2,85,64
+13,64,Female,Post Graduate,97636,Unemployed,32,72,60
+14,54,Female,Graduate,95363,Employed,31,54,79
+15,37,Female,School,26516,Unemployed,5,58,40
+16,33,Male,Graduate,40177,Unemployed,11,95,45
+17,30,Male,Post Graduate,25038,Unemployed,5,93,63
+18,33,Female,Post Graduate,42597,Employed,11,67,61
+19,66,Female,Post Graduate,64179,Employed,19,88,50
+20,44,Female,School,70262,Employed,22,99,82
+21,44,Male,Post Graduate,37108,Unemployed,10,62,99
+22,50,Female,School,26917,Employed,5,89,82
+23,54,Male,School,43467,Employed,10,64,82
+24,64,Female,School,79173,Employed,24,55,98
+25,18,Male,Post Graduate,15000,Student,0,83,42
+26,42,Male,School,48515,Employed,12,77,66
+27,51,Male,Post Graduate,72838,Unemployed,24,86,82
+28,36,Male,Post Graduate,27599,Unemployed,6,88,82
+29,41,Male,Post Graduate,39505,Unemployed,10,72,76
+30,63,Male,Graduate,78980,Unemployed,26,69,40
+31,36,Male,School,30893,Unemployed,8,97,53
+32,57,Male,School,87183,Unemployed,29,57,40
+33,66,Female,School,100421,Unemployed,33,97,61
+34,38,Male,School,26024,Unemployed,6,74,98
+35,28,Male,Post Graduate,25530,Employed,5,77,57
+36,29,Male,Post Graduate,27599,Unemployed,4,88,84
+37,69,Male,School,87787,Employed,29,97,76
+38,53,Male,Post Graduate,83034,Unemployed,28,72,63
+39,40,Female,Graduate,55699,Unemployed,17,89,76
+40,29,Male,School,30625,Employed,7,99,98
+41,44,Female,Post Graduate,58290,Employed,17,67,88
+42,54,Male,School,41559,Employed,12,69,50
+43,35,Male,Graduate,36898,Employed,9,63,83
+44,60,Female,Graduate,90969,Employed,32,90,69
+45,27,Male,Post Graduate,24443,Unemployed,3,66,46
+46,44,Male,Graduate,33089,Employed,7,58,48
+47,57,Female,School,91078,Employed,30,58,83
+48,51,Female,School,45429,Unemployed,12,51,50
+49,57,Female,Graduate,83307,Unemployed,27,94,56
+50,63,Male,Post Graduate,74052,Employed,23,99,77
+51,42,Female,Graduate,48562,Unemployed,12,69,98
+52,47,Female,Graduate,24237,Unemployed,5,74,89
+53,29,Male,Post Graduate,15871,Employed,0,83,45
+54,62,Male,Post Graduate,31069,Employed,6,63,44
+55,32,Female,Post Graduate,32132,Employed,7,57,63
+56,46,Male,Post Graduate,28517,Unemployed,6,69,81
+57,53,Female,Graduate,56333,Unemployed,17,85,61
+58,61,Male,School,89849,Employed,29,65,56
+59,47,Female,Post Graduate,24695,Unemployed,5,62,41
+60,30,Male,Graduate,33772,Unemployed,7,74,40
+61,19,Male,School,15000,Student,0,55,80
+62,37,Female,Post Graduate,46953,Employed,14,70,96
+63,53,Female,Post Graduate,71645,Employed,24,66,48
+64,26,Male,Graduate,20424,Employed,4,74,66
+65,18,Male,Graduate,15000,Student,0,66,54
+66,18,Male,Graduate,15000,Student,0,51,98
+67,40,Female,Post Graduate,43740,Unemployed,12,100,61
+68,35,Female,Graduate,30041,Unemployed,8,60,40
+69,57,Male,School,74883,Employed,25,66,46
+70,33,Male,School,33063,Employed,6,68,96
+71,41,Female,Graduate,38294,Employed,8,78,48
+72,19,Female,School,18787,Student,0,93,65
+73,31,Female,School,31273,Employed,7,71,97
+74,30,Female,Graduate,22166,Employed,1,100,91
+75,22,Female,Post Graduate,15000,Student,0,95,88
+76,26,Male,School,20570,Unemployed,2,73,58
+77,35,Male,Graduate,37212,Employed,10,98,47
+78,26,Female,Graduate,22872,Employed,4,88,46
+79,69,Female,Post Graduate,26423,Employed,5,91,40
+80,59,Female,Post Graduate,90262,Unemployed,31,81,94
+81,67,Male,Post Graduate,24488,Unemployed,5,58,61
+82,34,Male,Post Graduate,41990,Employed,10,85,99
+83,32,Male,School,26701,Employed,6,93,44
+84,52,Female,Graduate,67025,Employed,20,80,74
+85,56,Female,Post Graduate,50025,Unemployed,15,82,41
+86,52,Male,School,72434,Employed,24,88,82
+87,18,Male,Graduate,15000,Student,0,61,65
+88,40,Male,Graduate,33320,Unemployed,9,71,60
+89,36,Female,School,29804,Employed,5,88,85
+90,23,Male,Graduate,23357,Unemployed,5,69,48
+91,46,Male,Graduate,70363,Employed,24,81,64
+92,43,Female,Graduate,50890,Employed,15,92,53
+93,26,Male,Graduate,32020,Unemployed,8,66,89
+94,66,Male,School,41717,Unemployed,9,86,96
+95,45,Female,Post Graduate,67140,Unemployed,19,63,69
+96,70,Female,School,78674,Employed,27,73,49
+97,20,Female,Graduate,16999,Student,0,84,62
+98,56,Male,Graduate,83621,Employed,27,53,76
+99,58,Female,Post Graduate,51247,Unemployed,15,98,92
+100,56,Female,Post Graduate,63507,Employed,20,64,50
+101,38,Male,School,50537,Employed,16,68,85
+102,22,Female,School,18662,Student,0,71,52
+103,30,Female,Post Graduate,15000,Unemployed,0,89,47
+104,30,Male,Post Graduate,15152,Unemployed,0,56,71
+105,29,Female,School,20460,Employed,4,98,97
+106,18,Female,School,15000,Student,0,60,94
+107,41,Male,School,51708,Employed,13,76,67
+108,31,Male,School,23133,Unemployed,5,99,81
+109,51,Female,Graduate,49178,Employed,14,51,99
+110,36,Male,Post Graduate,49687,Employed,12,94,74
+111,31,Female,Graduate,38967,Employed,9,99,89
+112,58,Female,Post Graduate,28694,Unemployed,7,89,43
+113,34,Male,Graduate,28554,Employed,5,57,40
+114,40,Male,Post Graduate,46605,Employed,11,95,97
+115,21,Female,Graduate,15000,Student,0,85,91
+116,36,Male,Graduate,40109,Employed,9,82,86
+117,52,Female,Post Graduate,53437,Employed,16,75,67
+118,45,Male,Graduate,25479,Unemployed,5,95,65
+119,70,Male,Graduate,92619,Employed,32,79,86
+120,55,Female,Post Graduate,78896,Unemployed,25,69,57
+121,50,Male,Post Graduate,41868,Employed,12,69,82
+122,70,Female,School,49520,Employed,13,57,63
+123,28,Male,School,26839,Unemployed,3,85,96
+124,63,Male,Graduate,63491,Employed,21,90,68
+125,46,Female,Post Graduate,52280,Employed,16,66,59
+126,47,Male,Post Graduate,55947,Unemployed,17,75,57
+127,54,Female,Graduate,70188,Unemployed,23,74,59
+128,30,Female,Post Graduate,36608,Employed,7,78,41
+129,19,Female,Post Graduate,18633,Student,0,60,87
+130,55,Female,Graduate,34021,Unemployed,6,59,48
+131,56,Female,Graduate,97874,Unemployed,34,96,78
+132,41,Female,School,37946,Unemployed,11,54,100
+133,35,Female,Graduate,43266,Unemployed,11,80,90
+134,21,Male,Post Graduate,15000,Student,0,77,69
+135,70,Male,School,53901,Unemployed,17,80,51
+136,22,Male,Post Graduate,16319,Student,0,57,89
+137,66,Female,Graduate,99752,Employed,34,96,91
+138,64,Female,Graduate,48997,Unemployed,14,87,78
+139,70,Male,School,72620,Employed,24,95,42
+140,66,Female,Graduate,128285,Unemployed,44,99,94
+141,64,Female,Post Graduate,61546,Unemployed,18,98,95
+142,42,Male,School,33392,Employed,6,71,85
+143,33,Female,Post Graduate,31082,Employed,5,78,77
+144,35,Male,Post Graduate,42959,Unemployed,10,94,44
+145,30,Male,Graduate,28400,Unemployed,5,96,66
+146,29,Female,School,31001,Employed,8,77,53
+147,30,Male,Graduate,31403,Employed,7,55,66
+148,26,Male,Post Graduate,35234,Employed,7,57,74
+149,62,Male,Post Graduate,74815,Employed,22,99,56
+150,32,Female,Graduate,39129,Unemployed,9,96,90
+151,63,Female,School,87681,Unemployed,30,59,49
+152,59,Male,Graduate,24931,Employed,5,69,59
+153,60,Female,Graduate,72901,Unemployed,25,82,47
+154,49,Female,Post Graduate,43071,Employed,13,90,64
+155,31,Female,Post Graduate,34839,Unemployed,9,94,79
+156,34,Female,Graduate,37499,Employed,8,79,89
+157,49,Male,Graduate,66847,Employed,19,60,81
+158,50,Female,School,62029,Unemployed,19,66,48
+159,33,Female,Post Graduate,30142,Employed,5,83,71
+160,58,Male,Post Graduate,63923,Employed,19,99,98
+161,62,Male,Graduate,27671,Employed,5,69,98
+162,35,Female,Post Graduate,37304,Employed,8,90,44
+163,45,Female,Graduate,36122,Unemployed,7,72,79
+164,56,Male,Graduate,100593,Unemployed,34,92,48
+165,28,Male,Graduate,32211,Employed,7,57,79
+166,56,Female,School,76925,Unemployed,26,68,100
+167,30,Female,Graduate,39249,Employed,8,91,41
+168,60,Female,Graduate,42315,Unemployed,9,95,67
+169,40,Female,School,38003,Unemployed,8,91,63
+170,67,Male,Graduate,41001,Unemployed,11,87,86
+171,29,Female,Post Graduate,24559,Employed,5,50,44
+172,67,Male,Post Graduate,107285,Unemployed,38,82,40
+173,56,Female,Post Graduate,74753,Unemployed,23,84,59
+174,59,Female,School,32167,Employed,8,81,42
+175,65,Male,Graduate,85959,Employed,30,75,78
+176,55,Male,Graduate,71333,Unemployed,23,89,83
+177,64,Male,School,102745,Unemployed,36,67,71
+178,41,Male,Graduate,63429,Unemployed,19,77,93
+179,65,Female,School,112966,Employed,38,82,97
+180,66,Female,School,82808,Employed,29,94,62
+181,50,Male,Graduate,78142,Employed,27,92,91
+182,35,Female,Graduate,34351,Unemployed,6,58,50
+183,31,Female,Post Graduate,28133,Employed,5,52,43
+184,34,Female,Post Graduate,39408,Unemployed,11,91,96
+185,67,Female,Post Graduate,32944,Unemployed,8,99,92
+186,61,Male,School,46298,Employed,13,90,53
+187,25,Female,Post Graduate,20572,Employed,2,76,95
+188,69,Female,School,45464,Employed,12,94,52
+189,26,Female,Graduate,35233,Unemployed,7,69,81
+190,29,Female,Graduate,33242,Unemployed,6,67,78
+191,32,Male,Graduate,32269,Unemployed,6,59,95
+192,21,Male,Graduate,16385,Student,0,85,64
+193,23,Male,School,32568,Unemployed,8,95,86
+194,32,Male,Post Graduate,28943,Unemployed,5,55,54
+195,69,Male,Post Graduate,88689,Unemployed,30,94,44
+196,60,Male,Post Graduate,64365,Unemployed,20,53,67
+197,64,Female,Post Graduate,95075,Unemployed,34,97,63
+198,34,Male,School,37131,Employed,8,77,74
+199,20,Female,Post Graduate,15111,Student,0,97,94
+200,29,Female,Graduate,26898,Employed,5,70,69
+201,52,Female,Post Graduate,90254,Employed,30,74,78
+202,58,Female,Post Graduate,36633,Employed,7,52,60
+203,65,Male,School,99729,Employed,34,87,83
+204,63,Male,Post Graduate,57742,Employed,18,89,78
+205,58,Female,Graduate,93918,Unemployed,31,56,98
+206,35,Male,Graduate,41894,Employed,10,54,89
+207,20,Male,Post Graduate,19193,Student,0,91,65
+208,44,Male,Post Graduate,66733,Unemployed,20,86,74
+209,53,Female,School,55320,Unemployed,17,65,74
+210,44,Male,Post Graduate,50646,Employed,13,64,68
+211,33,Female,Post Graduate,36721,Employed,9,78,59
+212,34,Male,Post Graduate,33623,Employed,9,56,98
+213,20,Female,Graduate,17938,Student,0,93,40
+214,38,Female,Graduate,38299,Employed,9,81,61
+215,58,Female,Graduate,93305,Employed,33,55,96
+216,27,Male,Post Graduate,29163,Unemployed,6,86,99
+217,40,Female,Post Graduate,53434,Unemployed,16,70,65
+218,36,Female,Graduate,38402,Employed,9,86,98
+219,58,Female,School,53131,Unemployed,15,77,44
+220,53,Male,School,75322,Unemployed,24,78,41
+221,21,Female,Post Graduate,15000,Student,0,63,52
+222,26,Male,Graduate,35077,Unemployed,8,68,56
+223,55,Female,Graduate,75193,Employed,23,79,82
+224,69,Male,Post Graduate,47914,Unemployed,12,100,81
+225,48,Male,School,61813,Unemployed,20,72,67
+226,47,Female,Graduate,34005,Unemployed,8,86,92
+227,58,Female,Post Graduate,52047,Unemployed,13,80,100
+228,35,Male,School,46955,Employed,11,72,79
+229,65,Male,Post Graduate,94335,Unemployed,32,78,93
+230,65,Female,Graduate,44480,Employed,10,86,100
+231,49,Female,School,23690,Unemployed,5,50,92
+232,46,Female,Post Graduate,31259,Employed,6,54,59
+233,47,Female,Graduate,65248,Employed,22,50,65
+234,19,Female,School,15000,Student,0,82,96
+235,48,Male,School,28257,Unemployed,6,91,92
+236,33,Female,School,40405,Employed,11,87,58
+237,45,Male,School,62565,Employed,21,88,56
+238,48,Male,School,77685,Unemployed,25,86,55
+239,48,Male,Post Graduate,70742,Unemployed,22,73,43
+240,44,Female,Graduate,71305,Employed,21,99,82
+241,59,Female,Graduate,67994,Unemployed,21,72,71
+242,45,Male,School,66751,Employed,19,94,96
+243,58,Female,Post Graduate,37637,Unemployed,9,97,49
+244,57,Female,School,76573,Employed,25,67,50
+245,68,Female,Graduate,125665,Employed,45,87,55
+246,58,Female,Post Graduate,40103,Employed,11,93,53
+247,69,Female,Graduate,125344,Employed,43,100,71
+248,51,Female,School,28390,Unemployed,5,84,43
+249,64,Female,Post Graduate,81725,Unemployed,28,66,87
+250,50,Female,School,46461,Unemployed,13,51,73
+251,26,Male,Post Graduate,15000,Employed,0,55,47
+252,31,Male,School,39964,Employed,8,95,75
+253,34,Male,School,39985,Unemployed,8,83,79
+254,20,Female,School,16569,Student,0,68,63
+255,35,Female,Post Graduate,32959,Unemployed,9,69,94
+256,44,Male,Post Graduate,53598,Employed,16,61,98
+257,70,Female,School,67008,Unemployed,19,71,85
+258,47,Female,Post Graduate,75174,Unemployed,23,57,52
+259,46,Male,Graduate,68898,Unemployed,21,78,88
+260,67,Male,Graduate,81732,Unemployed,25,93,54
+261,67,Male,Post Graduate,53609,Employed,17,64,61
+262,25,Male,Graduate,34223,Employed,7,96,77
+263,65,Female,Post Graduate,28235,Unemployed,5,65,77
+264,60,Female,School,33807,Employed,6,67,88
+265,44,Male,School,65074,Employed,20,79,64
+266,66,Male,School,44072,Unemployed,11,90,54
+267,32,Male,Post Graduate,33006,Employed,6,97,57
+268,65,Female,School,107045,Employed,38,71,42
+269,52,Female,Graduate,89418,Unemployed,29,56,62
+270,27,Male,Post Graduate,29276,Employed,4,73,54
+271,51,Male,Post Graduate,30747,Unemployed,8,86,67
+272,38,Female,Post Graduate,44171,Unemployed,12,82,59
+273,49,Male,Graduate,30873,Unemployed,8,52,50
+274,18,Female,School,15000,Student,0,54,83
+275,69,Male,Graduate,123314,Employed,45,89,51
+276,63,Female,School,101569,Employed,34,77,43
+277,51,Male,Post Graduate,84181,Employed,28,97,98
+278,59,Male,Post Graduate,103598,Employed,35,74,79
+279,29,Female,Graduate,34602,Employed,8,82,86
+280,18,Male,School,15000,Student,0,58,92
+281,41,Male,Graduate,28138,Employed,6,57,82
+282,35,Male,School,34035,Employed,6,85,64
+283,55,Male,Post Graduate,86647,Unemployed,28,63,57
+284,63,Female,School,119057,Unemployed,40,85,100
+285,55,Male,Post Graduate,80185,Employed,27,53,95
+286,37,Female,School,41792,Employed,10,58,72
+287,45,Female,Post Graduate,35217,Employed,8,86,50
+288,23,Male,Graduate,24605,Unemployed,4,69,92
+289,61,Male,Graduate,39210,Employed,11,52,46
+290,36,Male,Graduate,51060,Unemployed,13,54,88
+291,68,Male,School,82565,Employed,27,83,99
+292,24,Female,Post Graduate,19631,Employed,2,66,71
+293,45,Female,Graduate,25574,Employed,5,68,51
+294,50,Male,Graduate,47609,Unemployed,15,96,99
+295,28,Male,Graduate,15000,Unemployed,0,54,86
+296,46,Male,School,53998,Employed,15,91,98
+297,25,Female,Post Graduate,29380,Unemployed,6,73,47
+298,62,Female,Graduate,64590,Unemployed,18,96,79
+299,56,Male,School,69417,Unemployed,20,96,64
+300,46,Male,Graduate,58703,Unemployed,17,80,64
+301,65,Female,School,94483,Unemployed,32,78,60
+302,51,Male,School,47437,Employed,14,84,41
+303,52,Female,School,77624,Employed,25,73,51
+304,23,Male,Post Graduate,30911,Employed,6,91,59
+305,37,Female,School,43252,Unemployed,13,59,53
+306,44,Female,Graduate,66269,Employed,19,68,60
+307,47,Male,Post Graduate,22664,Unemployed,5,100,84
+308,61,Male,School,67751,Unemployed,23,50,59
+309,31,Male,School,33550,Unemployed,8,83,45
+310,35,Male,School,38383,Unemployed,10,89,98
+311,20,Female,Post Graduate,15000,Student,0,84,97
+312,35,Female,Post Graduate,29259,Unemployed,5,94,64
+313,40,Male,School,62332,Employed,18,54,76
+314,34,Female,Graduate,36979,Unemployed,10,68,61
+315,46,Male,Post Graduate,65915,Employed,22,93,74
+316,68,Female,Post Graduate,119565,Employed,40,51,98
+317,69,Female,Graduate,57701,Employed,18,75,45
+318,63,Male,School,44774,Employed,12,57,94
+319,26,Male,Graduate,25329,Unemployed,5,100,78
+320,29,Female,Graduate,15000,Employed,0,80,46
+321,35,Female,Post Graduate,47010,Unemployed,11,78,40
+322,62,Female,Post Graduate,67480,Unemployed,22,73,82
+323,55,Male,Post Graduate,78171,Employed,25,91,41
+324,67,Female,Graduate,106529,Unemployed,38,76,100
+325,47,Male,Post Graduate,35776,Employed,7,73,82
+326,40,Male,Post Graduate,50182,Employed,15,54,55
+327,30,Male,Graduate,29478,Employed,7,55,80
+328,58,Female,Graduate,105303,Unemployed,36,85,46
+329,57,Female,Graduate,98615,Employed,34,54,57
+330,51,Male,Post Graduate,67317,Unemployed,19,95,94
+331,53,Female,School,84800,Employed,26,88,51
+332,25,Male,School,17874,Employed,0,55,68
+333,26,Female,School,34279,Employed,7,74,93
+334,18,Female,School,15000,Student,0,68,88
+335,23,Female,Post Graduate,26605,Unemployed,6,83,96
+336,48,Male,Graduate,62973,Unemployed,20,54,78
+337,37,Male,School,33689,Employed,8,71,81
+338,30,Female,Graduate,17945,Employed,0,95,70
+339,53,Female,Post Graduate,70515,Employed,24,63,56
+340,59,Male,Post Graduate,66383,Unemployed,21,87,100
+341,20,Male,Post Graduate,17088,Student,0,70,47
+342,25,Female,Post Graduate,34289,Unemployed,7,76,45
+343,30,Female,School,16517,Unemployed,2,63,91
+344,31,Female,Post Graduate,26468,Employed,5,63,70
+345,30,Male,Graduate,28637,Unemployed,6,73,100
+346,34,Male,School,40799,Unemployed,11,70,70
+347,66,Female,Post Graduate,43874,Employed,11,50,56
+348,70,Male,Post Graduate,36866,Unemployed,10,94,61
+349,70,Female,Graduate,35589,Employed,10,60,41
+350,30,Female,Post Graduate,20996,Unemployed,2,90,66
+351,23,Male,School,15923,Unemployed,0,93,77
+352,70,Female,Graduate,86159,Employed,30,66,61
+353,21,Female,Post Graduate,15000,Student,0,72,88
+354,36,Male,Graduate,53133,Employed,14,59,69
+355,27,Male,School,28643,Unemployed,5,74,73
+356,41,Female,School,65271,Unemployed,19,68,73
+357,25,Male,Graduate,21822,Employed,4,85,96
+358,39,Female,Graduate,53703,Unemployed,15,77,89
+359,26,Male,Graduate,15126,Employed,2,71,52
+360,66,Female,Graduate,25884,Employed,6,73,60
+361,65,Female,Post Graduate,74270,Unemployed,22,73,78
+362,44,Male,School,28243,Employed,5,80,49
+363,63,Male,Post Graduate,96457,Employed,33,50,60
+364,19,Male,Graduate,15000,Student,0,55,40
+365,59,Male,Graduate,59263,Unemployed,18,62,56
+366,28,Male,School,31564,Employed,5,87,47
+367,37,Male,Post Graduate,57457,Unemployed,15,74,46
+368,44,Female,Graduate,42561,Unemployed,11,58,59
+369,64,Female,Post Graduate,72579,Unemployed,23,64,66
+370,65,Female,Graduate,62342,Employed,19,77,97
+371,50,Male,Graduate,73806,Unemployed,22,99,88
+372,28,Female,Graduate,15511,Employed,0,51,97
+373,64,Female,Graduate,67772,Unemployed,20,76,69
+374,35,Male,Graduate,41784,Employed,12,61,49
+375,44,Female,School,47133,Unemployed,11,88,67
+376,63,Male,School,49775,Unemployed,12,91,46
+377,53,Female,Post Graduate,61063,Employed,18,55,62
+378,69,Male,Post Graduate,35571,Employed,8,84,78
+379,59,Male,School,99109,Unemployed,35,63,61
+380,34,Male,School,25640,Employed,5,66,44
+381,37,Male,School,42072,Unemployed,9,65,79
+382,55,Female,School,80004,Employed,26,60,95
+383,43,Female,Post Graduate,50616,Employed,13,91,42
+384,23,Male,Graduate,35309,Employed,7,97,68
+385,61,Female,Graduate,55569,Employed,15,52,87
+386,59,Male,Graduate,41326,Unemployed,10,63,66
+387,68,Female,Graduate,124600,Unemployed,45,89,83
+388,24,Female,Post Graduate,25857,Unemployed,4,50,65
+389,37,Female,Post Graduate,47625,Unemployed,14,75,49
+390,50,Male,Graduate,81626,Employed,26,82,60
+391,43,Male,School,34507,Employed,6,77,95
+392,48,Male,School,31704,Employed,6,69,58
+393,67,Female,School,85951,Employed,30,51,68
+394,54,Female,Post Graduate,29239,Employed,5,94,70
+395,61,Male,Graduate,28564,Employed,6,85,91
+396,63,Male,School,44732,Unemployed,10,55,85
+397,31,Female,Post Graduate,30643,Employed,6,57,53
+398,38,Female,School,39546,Unemployed,8,61,63
+399,67,Female,School,36682,Employed,10,99,100
+400,23,Male,Graduate,23737,Unemployed,5,64,77
+401,48,Male,School,80474,Unemployed,25,96,85
+402,60,Female,Graduate,35686,Unemployed,10,86,85
+403,43,Female,Post Graduate,67028,Unemployed,19,74,82
+404,31,Female,Post Graduate,31563,Employed,6,93,52
+405,70,Female,School,68056,Employed,22,60,50
+406,39,Male,School,50538,Employed,16,64,59
+407,39,Male,Graduate,32356,Employed,5,89,97
+408,32,Female,School,25914,Unemployed,6,54,75
+409,58,Female,School,60057,Employed,17,89,67
+410,50,Male,School,35549,Unemployed,7,63,82
+411,33,Male,Post Graduate,33818,Employed,8,86,59
+412,69,Female,Post Graduate,59916,Employed,19,73,68
+413,49,Male,School,31787,Unemployed,5,73,59
+414,25,Male,Post Graduate,24682,Unemployed,5,82,89
+415,54,Male,School,38009,Employed,9,98,68
+416,24,Male,Post Graduate,16420,Employed,2,99,51
+417,36,Male,School,45867,Unemployed,11,80,46
+418,35,Female,School,48922,Employed,12,92,44
+419,30,Male,Graduate,23830,Unemployed,5,51,40
+420,45,Female,Graduate,51391,Unemployed,14,92,73
+421,47,Male,School,73962,Employed,22,59,52
+422,22,Male,Post Graduate,15381,Student,0,87,47
+423,44,Female,Graduate,43965,Unemployed,12,74,97
+424,60,Male,School,72135,Employed,22,87,84
+425,25,Female,Graduate,31133,Employed,5,51,44
+426,52,Female,Graduate,53965,Employed,17,72,78
+427,55,Male,Graduate,26836,Unemployed,6,99,56
+428,21,Female,Post Graduate,15000,Student,0,96,48
+429,57,Female,Graduate,77572,Unemployed,25,53,75
+430,30,Male,School,34739,Employed,8,92,52
+431,32,Male,School,22816,Employed,5,61,97
+432,67,Male,Graduate,58487,Employed,16,57,96
+433,33,Female,Graduate,32213,Unemployed,7,88,59
+434,51,Female,Post Graduate,43843,Employed,11,72,88
+435,25,Female,School,28561,Unemployed,5,52,96
+436,39,Female,School,49970,Unemployed,15,78,86
+437,39,Female,Post Graduate,31915,Unemployed,6,87,89
+438,18,Female,School,17414,Student,0,91,90
+439,47,Male,School,35605,Employed,9,79,85
+440,47,Male,School,79226,Unemployed,24,90,76
+441,57,Male,Graduate,44376,Unemployed,13,62,95
+442,29,Male,Graduate,34224,Employed,7,75,73
+443,63,Female,Graduate,65482,Unemployed,19,70,95
+444,66,Female,Graduate,39446,Unemployed,11,67,63
+445,41,Female,Post Graduate,54337,Unemployed,14,98,77
+446,26,Female,Post Graduate,21543,Unemployed,4,82,83
+447,64,Female,Graduate,36123,Unemployed,10,61,100
+448,67,Male,Graduate,32350,Unemployed,5,54,43
+449,66,Female,Graduate,70263,Employed,23,75,93
+450,32,Male,School,38769,Unemployed,10,95,58
+451,26,Female,Graduate,33948,Unemployed,7,52,85
+452,55,Male,School,52928,Employed,14,93,54
+453,18,Female,Post Graduate,16692,Student,0,67,54
+454,65,Female,School,123803,Unemployed,43,80,67
+455,64,Male,Graduate,64046,Unemployed,21,82,68
+456,52,Female,Post Graduate,24123,Employed,5,69,94
+457,48,Female,School,34036,Employed,6,56,43
+458,32,Female,Post Graduate,36787,Employed,8,98,83
+459,56,Female,School,45327,Unemployed,11,66,81
+460,29,Female,School,25255,Employed,6,52,57
+461,56,Male,Post Graduate,93316,Employed,30,78,59
+462,57,Female,School,83104,Employed,28,89,74
+463,68,Female,Post Graduate,64477,Unemployed,18,92,82
+464,28,Female,Post Graduate,28895,Employed,6,93,58
+465,33,Female,School,38808,Employed,11,90,56
+466,28,Male,Graduate,32597,Unemployed,6,54,75
+467,68,Female,School,71386,Employed,21,79,59
+468,35,Male,Post Graduate,47722,Unemployed,12,87,46
+469,68,Female,Post Graduate,59999,Employed,16,54,77
+470,41,Female,Post Graduate,34983,Employed,7,52,63
+471,64,Male,Post Graduate,56036,Unemployed,16,63,92
+472,27,Male,School,28264,Unemployed,7,95,89
+473,50,Male,Graduate,47317,Employed,13,96,91
+474,33,Male,School,38786,Employed,10,86,96
+475,49,Male,Graduate,62924,Employed,19,87,76
+476,40,Female,Graduate,57967,Unemployed,16,67,70
+477,69,Male,Graduate,49190,Employed,14,79,98
+478,32,Female,School,35906,Unemployed,8,79,83
+479,49,Female,Post Graduate,74772,Unemployed,24,91,45
+480,33,Female,Post Graduate,28532,Employed,6,85,46
+481,45,Female,Post Graduate,35626,Unemployed,9,64,73
+482,25,Female,Post Graduate,21329,Employed,4,100,72
+483,22,Male,Post Graduate,19441,Student,0,83,62
+484,70,Female,Graduate,52193,Unemployed,16,100,73
+485,35,Female,School,34539,Employed,6,86,51
+486,69,Female,Post Graduate,69732,Unemployed,21,70,98
+487,32,Male,Graduate,36601,Unemployed,8,66,65
+488,21,Male,School,15000,Student,0,98,66
+489,27,Female,Graduate,15000,Unemployed,0,99,97
+490,46,Male,School,74641,Employed,24,98,74
+491,56,Male,Post Graduate,59683,Unemployed,17,55,80
+492,70,Male,Post Graduate,122462,Employed,41,85,41
+493,49,Female,School,54441,Employed,16,73,80
+494,26,Male,Post Graduate,15000,Employed,0,94,44
+495,64,Female,Post Graduate,70932,Employed,22,54,58
+496,21,Male,Graduate,19108,Student,0,62,67
+497,20,Male,Graduate,15884,Student,0,53,70
+498,33,Female,School,25029,Employed,5,93,99
+499,55,Female,School,73947,Employed,25,75,72
+500,32,Female,School,27727,Unemployed,7,75,85
+501,58,Female,School,65103,Employed,21,64,75
+502,63,Female,Post Graduate,59783,Unemployed,19,71,64
+503,26,Female,School,25407,Unemployed,3,50,74
+504,36,Female,Post Graduate,33513,Unemployed,7,70,63
+505,56,Female,Post Graduate,56868,Employed,16,67,87
+506,31,Female,Graduate,31663,Employed,6,75,51
+507,58,Female,Graduate,62074,Employed,17,89,78
+508,60,Male,School,50069,Employed,16,55,60
+509,36,Male,Graduate,33859,Employed,7,79,55
+510,49,Female,Graduate,76627,Unemployed,23,80,76
+511,24,Male,Post Graduate,17442,Unemployed,0,94,65
+512,66,Female,Post Graduate,53504,Unemployed,16,98,72
+513,28,Male,Graduate,25998,Unemployed,5,92,97
+514,68,Male,School,94325,Employed,32,68,69
+515,33,Female,School,36325,Unemployed,7,88,62
+516,54,Female,Post Graduate,97220,Unemployed,32,74,76
+517,40,Male,Graduate,46909,Employed,12,79,86
+518,48,Male,School,50855,Unemployed,13,79,75
+519,67,Male,School,53145,Employed,15,54,53
+520,18,Female,School,16301,Student,0,62,79
+521,44,Male,School,67103,Unemployed,19,80,45
+522,31,Male,Post Graduate,36410,Unemployed,9,95,64
+523,63,Male,Post Graduate,42329,Employed,11,98,90
+524,28,Male,School,24514,Unemployed,3,78,92
+525,55,Male,School,86096,Unemployed,27,57,48
+526,56,Male,Post Graduate,49628,Employed,14,63,95
+527,20,Female,Graduate,15000,Student,0,98,78
+528,21,Female,School,15000,Student,0,81,90
+529,43,Female,Graduate,35742,Unemployed,10,74,75
+530,31,Female,Graduate,35706,Unemployed,8,92,48
+531,55,Female,Graduate,54697,Unemployed,16,66,89
+532,70,Female,School,54831,Unemployed,17,56,65
+533,49,Female,Graduate,26966,Unemployed,5,72,51
+534,26,Female,School,35198,Employed,7,50,45
+535,18,Female,School,15000,Student,0,67,54
+536,61,Male,Post Graduate,36563,Employed,9,81,45
+537,59,Female,School,39421,Employed,8,93,87
+538,25,Male,School,33690,Employed,8,51,47
+539,32,Male,Graduate,29536,Unemployed,5,81,72
+540,51,Female,Post Graduate,43816,Unemployed,11,80,93
+541,23,Female,Graduate,23598,Unemployed,2,81,67
+542,26,Female,Graduate,39531,Unemployed,8,68,93
+543,24,Male,Post Graduate,22447,Unemployed,4,80,98
+544,70,Female,Graduate,112380,Employed,39,78,66
+545,57,Male,School,44371,Employed,11,80,49
+546,68,Male,Graduate,71029,Employed,21,57,45
+547,44,Male,Graduate,25148,Employed,6,60,86
+548,43,Male,Post Graduate,30226,Unemployed,5,85,89
+549,61,Female,Post Graduate,84910,Unemployed,26,99,51
+550,34,Female,Post Graduate,30542,Employed,8,80,55
+551,38,Female,School,37141,Employed,9,79,52
+552,64,Female,Post Graduate,98545,Unemployed,34,59,41
+553,42,Male,Post Graduate,55648,Employed,18,91,57
+554,49,Male,School,57204,Unemployed,17,61,61
+555,64,Male,Post Graduate,36087,Employed,10,88,69
+556,41,Male,Post Graduate,41112,Employed,12,71,100
+557,28,Male,School,24772,Employed,5,89,94
+558,42,Female,Post Graduate,47639,Unemployed,15,65,49
+559,41,Female,School,60404,Unemployed,17,65,46
+560,62,Female,School,86300,Employed,27,95,62
+561,38,Male,Graduate,41554,Employed,9,66,51
+562,32,Female,Graduate,36780,Unemployed,9,99,76
+563,35,Male,School,48660,Employed,13,71,68
+564,37,Male,Post Graduate,44681,Employed,10,78,41
+565,61,Female,Graduate,117005,Unemployed,39,50,49
+566,34,Female,Graduate,34286,Unemployed,6,85,88
+567,58,Female,Graduate,99434,Unemployed,33,51,74
+568,69,Female,Post Graduate,82437,Employed,27,71,40
+569,38,Male,School,22945,Unemployed,5,50,63
+570,51,Male,School,28473,Employed,6,99,82
+571,49,Male,School,52444,Unemployed,15,86,91
+572,39,Female,School,26865,Unemployed,6,63,74
+573,30,Male,Post Graduate,18936,Unemployed,3,50,57
+574,54,Male,Post Graduate,45331,Employed,11,62,76
+575,43,Female,Graduate,53565,Unemployed,16,67,40
+576,44,Male,Graduate,48108,Unemployed,15,76,92
+577,65,Female,Post Graduate,107388,Unemployed,36,76,53
+578,54,Male,Graduate,35949,Employed,7,84,98
+579,24,Female,School,28161,Unemployed,7,69,87
+580,55,Male,Post Graduate,27338,Employed,5,68,96
+581,27,Male,School,32271,Employed,6,91,85
+582,60,Male,School,32754,Unemployed,7,100,46
+583,57,Female,Post Graduate,25270,Employed,6,94,65
+584,54,Female,Graduate,25082,Unemployed,5,62,41
+585,21,Male,Post Graduate,18064,Student,0,74,95
+586,48,Female,Graduate,74494,Unemployed,23,65,68
+587,30,Male,Graduate,27795,Unemployed,6,69,51
+588,21,Male,Post Graduate,16120,Student,0,82,62
+589,44,Female,Graduate,29117,Unemployed,5,72,89
+590,40,Male,Post Graduate,40503,Employed,11,95,96
+591,55,Male,School,39554,Unemployed,10,94,99
+592,37,Female,School,49640,Unemployed,15,78,49
+593,37,Female,Graduate,42843,Employed,13,60,59
+594,34,Male,Graduate,46354,Unemployed,11,70,46
+595,30,Male,Post Graduate,25308,Employed,6,81,42
+596,43,Male,Graduate,40572,Employed,11,52,40
+597,31,Female,School,27668,Unemployed,5,50,67
+598,26,Male,Post Graduate,23040,Employed,4,56,46
+599,35,Male,School,35228,Unemployed,7,64,100
+600,28,Male,Graduate,18166,Employed,3,81,52
+601,19,Female,School,15000,Student,0,85,79
+602,34,Female,School,29624,Unemployed,6,51,93
+603,45,Female,Post Graduate,34036,Employed,7,64,76
+604,29,Male,School,15026,Employed,0,98,80
+605,47,Female,Post Graduate,66217,Employed,20,91,63
+606,26,Male,Graduate,15000,Unemployed,0,96,71
+607,39,Female,Graduate,57946,Employed,16,55,40
+608,49,Female,School,82043,Employed,25,67,54
+609,61,Male,Graduate,82209,Unemployed,27,70,60
+610,18,Male,School,15000,Student,0,56,90
+611,36,Female,School,47752,Employed,14,55,51
+612,33,Female,School,28019,Employed,6,72,60
+613,55,Male,Post Graduate,71215,Unemployed,22,72,78
+614,41,Female,Graduate,30122,Employed,8,64,46
+615,50,Male,Graduate,29133,Unemployed,5,57,58
+616,20,Male,Post Graduate,17785,Student,0,93,63
+617,32,Female,Graduate,39703,Unemployed,9,87,84
+618,34,Female,School,34751,Unemployed,7,81,44
+619,34,Female,Post Graduate,41765,Unemployed,11,88,69
+620,63,Female,Post Graduate,58124,Unemployed,19,100,78
+621,28,Male,School,25586,Unemployed,3,89,74
+622,53,Female,Graduate,32621,Unemployed,8,87,56
+623,63,Female,Graduate,103467,Employed,37,57,97
+624,59,Female,Graduate,79158,Employed,26,74,87
+625,56,Female,Graduate,39885,Employed,9,89,52
+626,68,Male,School,70965,Unemployed,24,52,64
+627,40,Female,School,61262,Employed,17,89,52
+628,55,Male,Graduate,39789,Employed,9,94,65
+629,44,Female,Graduate,24596,Employed,5,67,57
+630,36,Male,Post Graduate,43544,Employed,11,88,64
+631,29,Female,Graduate,17739,Employed,0,58,41
+632,27,Male,Post Graduate,24455,Employed,3,89,51
+633,28,Female,School,25623,Employed,5,60,43
+634,28,Male,Post Graduate,21076,Unemployed,1,75,66
+635,40,Male,School,61714,Employed,17,58,65
+636,70,Female,Post Graduate,58084,Unemployed,17,66,71
+637,70,Male,Graduate,84456,Employed,26,54,89
+638,58,Male,Graduate,107308,Employed,35,56,64
+639,25,Female,Graduate,32475,Employed,7,84,57
+640,57,Male,School,34988,Unemployed,9,94,87
+641,42,Female,Graduate,50819,Unemployed,13,62,97
+642,47,Male,School,54664,Employed,15,97,43
+643,64,Female,Graduate,93429,Unemployed,31,51,92
+644,50,Female,Graduate,35782,Unemployed,7,57,49
+645,44,Male,School,56727,Unemployed,16,97,57
+646,44,Male,School,45618,Unemployed,12,88,78
+647,43,Male,School,32685,Employed,9,63,86
+648,43,Female,Graduate,52908,Employed,17,94,90
+649,53,Female,School,86120,Unemployed,30,79,44
+650,56,Female,School,44081,Employed,12,65,93
+651,39,Female,School,48309,Unemployed,12,89,59
+652,56,Male,Graduate,80469,Unemployed,25,85,65
+653,37,Female,School,30242,Employed,8,96,96
+654,39,Male,Post Graduate,47417,Unemployed,12,69,44
+655,40,Male,Graduate,24831,Unemployed,5,93,45
+656,39,Female,School,35823,Unemployed,10,70,51
+657,64,Female,Post Graduate,55379,Unemployed,15,100,97
+658,45,Male,Post Graduate,63275,Unemployed,20,63,51
+659,37,Male,Graduate,39306,Employed,10,55,86
+660,21,Male,Graduate,18397,Student,0,59,42
+661,53,Female,School,90922,Unemployed,30,99,40
+662,43,Male,School,54117,Unemployed,15,57,71
+663,59,Male,Graduate,46581,Employed,12,85,94
+664,33,Male,Post Graduate,41649,Employed,10,85,83
+665,29,Male,Graduate,16593,Unemployed,0,68,62
+666,24,Male,School,24317,Unemployed,4,79,53
+667,50,Female,School,46240,Employed,14,87,83
+668,26,Male,School,17955,Employed,3,76,48
+669,42,Male,Post Graduate,62379,Unemployed,19,81,70
+670,20,Female,School,19368,Student,0,65,63
+671,55,Female,Post Graduate,95343,Employed,31,69,51
+672,43,Female,Graduate,39453,Employed,10,52,43
+673,60,Female,Post Graduate,72810,Employed,22,86,69
+674,36,Female,Graduate,29681,Employed,7,100,65
+675,34,Male,Post Graduate,31446,Unemployed,8,63,56
+676,46,Male,School,39864,Unemployed,9,98,91
+677,32,Female,Graduate,35768,Unemployed,10,68,54
+678,22,Female,School,19714,Student,0,59,60
+679,35,Male,Post Graduate,46582,Unemployed,12,74,41
+680,35,Female,Graduate,35419,Unemployed,7,69,87
+681,67,Female,Graduate,32604,Employed,8,57,46
+682,51,Female,Graduate,53385,Employed,16,96,45
+683,63,Male,Graduate,89014,Employed,29,69,64
+684,34,Male,Graduate,41936,Unemployed,9,50,68
+685,56,Male,School,101915,Unemployed,34,55,95
+686,51,Male,Graduate,58719,Unemployed,19,73,47
+687,55,Female,Graduate,84454,Employed,26,79,45
+688,55,Female,School,41707,Employed,11,63,70
+689,62,Male,Post Graduate,77580,Unemployed,25,51,73
+690,59,Female,Graduate,91686,Unemployed,30,99,56
+691,22,Male,School,15000,Student,0,64,55
+692,24,Male,Graduate,21150,Unemployed,4,56,82
+693,69,Female,Graduate,110638,Employed,39,55,60
+694,20,Female,School,19267,Student,0,84,91
+695,51,Female,Post Graduate,76358,Unemployed,25,70,62
+696,28,Female,Post Graduate,30200,Employed,7,69,41
+697,37,Female,Post Graduate,34206,Employed,6,80,85
+698,44,Female,School,27581,Unemployed,5,87,53
+699,33,Male,School,27711,Unemployed,6,80,50
+700,54,Male,Post Graduate,66692,Unemployed,21,72,64
+701,55,Female,Graduate,59112,Employed,16,66,96
+702,26,Female,Graduate,33780,Unemployed,8,77,56
+703,31,Male,Graduate,41077,Unemployed,9,68,75
+704,33,Female,Graduate,30919,Employed,6,89,88
+705,66,Male,Graduate,36749,Employed,10,80,89
+706,24,Male,Graduate,19658,Employed,1,89,73
+707,58,Female,Post Graduate,60295,Unemployed,19,81,82
+708,68,Female,Graduate,120959,Employed,43,92,81
+709,70,Male,School,27918,Unemployed,6,57,64
+710,66,Male,School,54062,Unemployed,17,69,76
+711,27,Male,Post Graduate,28294,Unemployed,4,89,72
+712,69,Male,School,95220,Unemployed,34,67,74
+713,22,Female,Post Graduate,15000,Student,0,63,76
+714,37,Female,Graduate,31072,Employed,8,92,45
+715,26,Female,Graduate,17956,Unemployed,2,83,68
+716,36,Female,Graduate,23643,Employed,5,90,53
+717,40,Female,Post Graduate,62343,Employed,17,64,61
+718,49,Female,Post Graduate,66693,Employed,21,86,51
+719,42,Male,School,63292,Employed,18,88,73
+720,23,Female,Graduate,32704,Employed,7,59,60
+721,45,Male,Post Graduate,44375,Employed,10,71,69
+722,41,Male,Post Graduate,26111,Unemployed,5,52,56
+723,67,Male,School,103191,Unemployed,37,75,43
+724,26,Male,Graduate,18393,Unemployed,0,85,55
+725,49,Male,Graduate,60504,Unemployed,17,61,94
+726,46,Male,School,68135,Unemployed,21,63,48
+727,69,Male,Post Graduate,92071,Unemployed,30,98,68
+728,28,Male,Post Graduate,16372,Employed,1,86,75
+729,26,Male,Graduate,28449,Employed,7,69,60
+730,70,Male,School,125807,Employed,46,91,82
+731,50,Female,Graduate,45798,Unemployed,11,58,43
+732,23,Female,Graduate,37434,Employed,7,65,67
+733,45,Female,School,33965,Unemployed,8,86,51
+734,53,Female,School,56745,Unemployed,18,59,73
+735,20,Female,School,15000,Student,0,85,60
+736,51,Male,Graduate,37664,Employed,11,70,76
+737,18,Male,School,16563,Student,0,94,56
+738,70,Female,School,120744,Employed,41,55,85
+739,35,Male,Post Graduate,46545,Unemployed,12,68,50
+740,32,Female,Post Graduate,38885,Employed,10,97,65
+741,70,Male,Graduate,104402,Employed,36,91,85
+742,41,Male,Post Graduate,51656,Employed,14,53,44
+743,49,Male,Graduate,34322,Unemployed,7,62,72
+744,66,Male,Graduate,85202,Employed,29,96,78
+745,19,Male,Post Graduate,17430,Student,0,85,85
+746,19,Male,School,17643,Student,0,50,97
+747,69,Male,Graduate,131980,Unemployed,46,59,57
+748,66,Male,Post Graduate,105593,Unemployed,38,57,76
+749,36,Female,School,46375,Employed,13,52,84
+750,28,Male,School,15000,Unemployed,1,91,75
+751,22,Female,Post Graduate,15000,Student,0,91,42
+752,43,Female,School,41230,Employed,11,53,49
+753,42,Female,School,30901,Employed,5,58,43
+754,24,Male,Graduate,15000,Employed,0,96,46
+755,39,Male,Graduate,40855,Unemployed,12,82,40
+756,42,Male,Graduate,65769,Employed,19,59,46
+757,18,Male,Graduate,15000,Student,0,100,60
+758,64,Male,Post Graduate,57599,Employed,16,95,82
+759,32,Male,Post Graduate,35624,Unemployed,10,53,84
+760,61,Male,School,56487,Unemployed,17,55,48
+761,29,Female,Post Graduate,28447,Unemployed,5,50,75
+762,56,Female,School,89145,Unemployed,29,56,50
+763,65,Male,Graduate,62757,Unemployed,20,93,76
+764,61,Female,School,37635,Employed,8,91,83
+765,23,Male,Graduate,32035,Employed,5,90,48
+766,69,Male,School,106906,Unemployed,37,77,55
+767,37,Male,Graduate,46844,Employed,13,95,74
+768,52,Male,School,57681,Unemployed,19,68,43
+769,23,Male,School,26214,Unemployed,6,56,87
+770,68,Female,School,48794,Employed,14,100,42
+771,39,Male,Graduate,54284,Unemployed,15,75,56
+772,56,Male,Post Graduate,54198,Unemployed,15,53,66
+773,27,Female,Post Graduate,21135,Unemployed,2,80,99
+774,27,Male,School,15519,Unemployed,0,69,58
+775,56,Female,Post Graduate,48501,Unemployed,13,52,94
+776,57,Female,Post Graduate,50034,Unemployed,14,94,87
+777,29,Male,School,36243,Unemployed,7,58,61
+778,55,Female,Graduate,84785,Employed,26,50,85
+779,36,Male,School,25306,Employed,6,98,100
+780,64,Female,Graduate,54533,Employed,16,60,80
+781,47,Female,Post Graduate,49485,Employed,13,68,55
+782,48,Male,School,40923,Employed,12,74,60
+783,34,Female,School,24087,Unemployed,5,68,42
+784,29,Male,School,22557,Unemployed,4,58,71
+785,70,Male,School,49965,Employed,12,66,62
+786,25,Female,Graduate,17716,Unemployed,2,97,63
+787,69,Female,School,122498,Employed,41,85,96
+788,63,Male,Post Graduate,91921,Employed,30,73,48
+789,67,Male,School,33446,Employed,8,80,86
+790,47,Female,Graduate,75961,Unemployed,25,93,92
+791,22,Female,School,15000,Student,0,90,58
+792,60,Female,Graduate,81932,Employed,25,96,71
+793,51,Female,Post Graduate,35300,Employed,7,52,68
+794,28,Female,School,26056,Employed,4,50,82
+795,57,Female,Post Graduate,49502,Unemployed,13,80,63
+796,70,Male,Graduate,80430,Unemployed,25,53,42
+797,70,Male,Graduate,86133,Employed,29,76,61
+798,68,Female,Post Graduate,86861,Employed,30,69,44
+799,40,Female,School,46076,Employed,11,64,97
+800,61,Female,School,64898,Employed,21,62,76
+801,26,Female,School,20987,Unemployed,3,88,67
+802,57,Female,Graduate,98532,Employed,34,84,79
+803,67,Male,Graduate,99464,Employed,32,62,67
+804,43,Male,School,48502,Unemployed,12,51,74
+805,38,Male,School,31459,Employed,8,63,45
+806,55,Male,School,56963,Unemployed,16,81,90
+807,53,Female,School,88913,Unemployed,31,68,61
+808,19,Female,Post Graduate,18506,Student,0,66,79
+809,57,Female,Post Graduate,58960,Employed,16,64,87
+810,25,Female,School,30054,Employed,8,68,41
+811,63,Male,Post Graduate,80011,Unemployed,26,89,69
+812,48,Female,School,59516,Employed,18,65,46
+813,22,Female,Post Graduate,15000,Student,0,55,53
+814,51,Male,School,85057,Unemployed,29,100,75
+815,34,Male,School,26357,Unemployed,5,74,51
+816,23,Male,Graduate,25082,Unemployed,5,85,44
+817,30,Male,Graduate,26066,Unemployed,4,78,67
+818,42,Female,Post Graduate,47955,Employed,15,70,96
+819,35,Female,Post Graduate,28500,Unemployed,7,56,49
+820,42,Male,School,25984,Unemployed,6,60,71
+821,30,Female,Graduate,15000,Employed,0,67,52
+822,68,Male,Post Graduate,96073,Employed,32,66,65
+823,58,Male,Post Graduate,44587,Unemployed,12,81,46
+824,23,Female,Post Graduate,38418,Employed,8,73,92
+825,59,Male,School,64931,Employed,19,100,40
+826,70,Female,School,63097,Unemployed,20,57,60
+827,52,Male,Graduate,71995,Employed,21,59,50
+828,52,Male,Graduate,82309,Employed,27,96,58
+829,43,Male,School,51770,Employed,15,50,89
+830,24,Female,Post Graduate,16449,Employed,2,94,94
+831,30,Male,School,33153,Unemployed,6,98,59
+832,39,Male,Graduate,52953,Employed,16,87,42
+833,52,Male,Graduate,72775,Employed,25,77,78
+834,36,Female,Post Graduate,27045,Unemployed,6,51,80
+835,64,Male,Graduate,54739,Unemployed,17,70,41
+836,52,Male,Graduate,88791,Unemployed,29,93,76
+837,54,Female,Graduate,90126,Unemployed,30,87,54
+838,56,Female,Post Graduate,94060,Unemployed,32,93,47
+839,37,Male,School,33122,Employed,7,92,99
+840,70,Male,Graduate,24007,Unemployed,5,95,48
+841,58,Male,School,59331,Unemployed,18,67,80
+842,62,Male,School,43503,Unemployed,10,54,82
+843,54,Male,Graduate,68179,Employed,23,57,96
+844,39,Female,Post Graduate,40091,Unemployed,12,81,80
+845,43,Male,School,54847,Employed,14,89,100
+846,58,Female,Post Graduate,67929,Unemployed,20,97,99
+847,50,Male,Graduate,66738,Employed,22,93,59
+848,38,Male,School,48325,Unemployed,12,87,56
+849,49,Male,School,60769,Unemployed,18,86,43
+850,57,Female,School,49449,Unemployed,15,84,70
+851,20,Male,Graduate,19842,Student,0,70,71
+852,35,Male,School,34546,Unemployed,7,80,41
+853,34,Male,School,25183,Unemployed,6,77,81
+854,66,Male,School,78723,Employed,27,100,84
+855,42,Male,School,62085,Employed,17,69,58
+856,69,Female,Post Graduate,75304,Unemployed,24,79,40
+857,18,Male,Graduate,17337,Student,0,70,98
+858,38,Male,School,39938,Unemployed,8,60,89
+859,65,Male,School,41962,Unemployed,9,63,43
+860,26,Male,Post Graduate,23995,Employed,4,94,90
+861,47,Female,Post Graduate,28281,Unemployed,6,53,43
+862,46,Male,School,41321,Employed,12,58,76
+863,41,Male,School,46448,Unemployed,11,88,99
+864,36,Male,Graduate,34161,Unemployed,8,99,86
+865,66,Male,Post Graduate,85486,Unemployed,28,75,64
+866,24,Female,Graduate,35425,Employed,7,82,99
+867,28,Male,Graduate,36927,Unemployed,7,94,85
+868,65,Male,Post Graduate,113628,Unemployed,39,57,54
+869,18,Male,Graduate,15000,Student,0,57,45
+870,35,Female,School,42692,Employed,10,78,57
+871,53,Female,Graduate,71776,Unemployed,24,71,40
+872,67,Male,Post Graduate,73870,Employed,22,94,42
+873,25,Female,Post Graduate,20711,Employed,3,70,98
+874,28,Male,Post Graduate,17394,Unemployed,2,88,82
+875,33,Male,Graduate,37522,Unemployed,11,96,75
+876,65,Female,Post Graduate,78284,Employed,24,77,91
+877,39,Male,School,50684,Unemployed,14,75,62
+878,32,Male,Graduate,36016,Employed,7,89,41
+879,32,Male,School,28733,Employed,7,96,71
+880,47,Male,Post Graduate,76119,Unemployed,25,86,85
+881,47,Male,Graduate,73428,Unemployed,23,60,80
+882,68,Male,Post Graduate,91394,Unemployed,29,51,74
+883,37,Female,Post Graduate,55935,Employed,15,68,42
+884,57,Male,Graduate,34631,Unemployed,9,55,92
+885,50,Female,Post Graduate,79906,Employed,26,85,60
+886,31,Male,Graduate,32934,Employed,6,92,44
+887,46,Male,School,61342,Unemployed,20,99,61
+888,45,Female,Graduate,52219,Unemployed,13,66,94
+889,48,Male,Post Graduate,80072,Unemployed,26,90,83
+890,26,Male,School,15000,Unemployed,0,91,81
+891,56,Male,Graduate,54374,Unemployed,17,92,93
+892,22,Female,School,15000,Student,0,89,93
+893,26,Male,Post Graduate,21767,Unemployed,1,86,76
+894,61,Female,Graduate,82876,Unemployed,28,87,62
+895,64,Male,Post Graduate,58134,Employed,19,63,55
+896,61,Male,School,78606,Employed,24,65,47
+897,31,Male,School,25084,Employed,6,86,97
+898,56,Female,Post Graduate,93897,Employed,32,95,92
+899,69,Male,Graduate,105251,Unemployed,36,50,44
+900,22,Female,School,15000,Student,0,92,61
+901,28,Female,Graduate,18695,Unemployed,3,57,65
+902,53,Male,School,39384,Unemployed,9,87,64
+903,33,Female,Post Graduate,31075,Employed,8,57,97
+904,56,Male,Graduate,85152,Employed,28,53,79
+905,68,Female,School,72373,Employed,22,62,57
+906,62,Male,School,109663,Unemployed,38,89,81
+907,69,Female,Post Graduate,85129,Employed,28,68,82
+908,21,Male,Graduate,15000,Student,0,81,90
+909,69,Female,Graduate,113280,Employed,41,80,71
+910,21,Female,Graduate,17721,Student,0,71,83
+911,68,Male,School,74025,Unemployed,23,85,92
+912,69,Male,Post Graduate,67400,Unemployed,22,69,64
+913,47,Female,Graduate,73479,Unemployed,22,76,96
+914,40,Male,Post Graduate,50597,Unemployed,16,61,67
+915,49,Male,School,63679,Unemployed,19,66,84
+916,22,Female,Post Graduate,15000,Student,0,52,53
+917,41,Female,Post Graduate,35092,Unemployed,7,52,77
+918,52,Female,Post Graduate,77724,Employed,24,59,83
+919,66,Female,Graduate,48623,Unemployed,12,81,64
+920,49,Female,Graduate,38400,Employed,11,94,54
+921,18,Female,Graduate,18575,Student,0,54,84
+922,52,Male,Graduate,62337,Employed,20,79,40
+923,54,Male,Post Graduate,91095,Unemployed,32,95,100
+924,66,Female,Post Graduate,100973,Unemployed,34,87,41
+925,22,Male,School,15000,Student,0,71,41
+926,25,Male,School,39380,Unemployed,8,65,85
+927,61,Female,Post Graduate,78883,Unemployed,25,67,82
+928,35,Male,Graduate,42050,Unemployed,10,60,99
+929,66,Female,School,41433,Unemployed,12,89,68
+930,21,Male,Graduate,15000,Student,0,98,95
+931,46,Female,School,71932,Unemployed,23,85,68
+932,21,Male,Graduate,16003,Student,0,61,60
+933,70,Female,Post Graduate,130683,Employed,46,56,98
+934,33,Male,Post Graduate,34476,Unemployed,7,50,65
+935,30,Male,Graduate,31851,Employed,6,57,72
+936,27,Female,Graduate,30739,Unemployed,7,67,57
+937,40,Female,Graduate,38391,Unemployed,11,89,79
+938,65,Female,School,98704,Employed,35,93,78
+939,20,Male,Post Graduate,15000,Student,0,62,54
+940,39,Male,Post Graduate,26948,Employed,5,57,86
+941,58,Male,School,26452,Unemployed,5,94,40
+942,35,Male,School,37676,Employed,11,84,43
+943,44,Female,Graduate,48839,Employed,14,76,90
+944,37,Female,School,37331,Unemployed,8,64,82
+945,18,Male,School,15803,Student,0,85,63
+946,43,Female,Post Graduate,27200,Unemployed,5,75,77
+947,52,Female,School,64376,Employed,18,62,47
+948,31,Female,Post Graduate,35737,Employed,7,99,59
+949,31,Male,School,29349,Employed,7,81,67
+950,49,Male,School,39560,Unemployed,10,64,53
+951,68,Male,Graduate,128012,Employed,44,99,64
+952,53,Female,School,38843,Unemployed,10,66,47
+953,68,Male,Post Graduate,32495,Unemployed,8,96,89
+954,28,Female,Graduate,27532,Employed,5,62,81
+955,66,Male,School,97764,Employed,32,55,64
+956,48,Male,School,59246,Employed,17,91,99
+957,27,Female,Graduate,17674,Employed,0,78,81
+958,66,Male,Post Graduate,116928,Unemployed,40,51,62
+959,39,Male,School,52875,Employed,15,81,63
+960,59,Male,Post Graduate,75156,Unemployed,24,87,81
+961,19,Male,School,15866,Student,0,55,40
+962,54,Male,Graduate,63758,Unemployed,20,74,100
+963,34,Male,Post Graduate,32218,Employed,8,67,62
+964,36,Female,Post Graduate,35138,Unemployed,9,96,62
+965,39,Female,School,53504,Unemployed,14,97,91
+966,60,Female,Graduate,45555,Employed,11,62,40
+967,70,Female,Graduate,59377,Employed,16,87,76
+968,52,Female,Graduate,67447,Unemployed,19,82,86
+969,55,Female,Graduate,64141,Unemployed,21,80,73
+970,70,Female,Post Graduate,107181,Unemployed,36,69,84
+971,59,Female,School,89259,Unemployed,28,84,69
+972,40,Male,Post Graduate,35042,Unemployed,8,96,74
+973,55,Male,School,36527,Employed,10,89,84
+974,29,Male,Graduate,19079,Employed,1,93,43
+975,61,Male,School,67153,Unemployed,20,90,54
+976,66,Female,Graduate,69356,Unemployed,21,80,54
+977,68,Male,Post Graduate,78180,Unemployed,25,97,49
+978,70,Male,Post Graduate,99949,Unemployed,33,55,63
+979,20,Female,Graduate,15000,Student,0,83,69
+980,35,Male,School,47100,Unemployed,12,79,80
+981,22,Male,Post Graduate,15000,Student,0,92,90
+982,25,Female,School,19204,Employed,3,68,58
+983,66,Male,School,40257,Employed,11,93,65
+984,34,Male,Graduate,39922,Employed,9,94,73
+985,25,Female,Post Graduate,31952,Employed,7,64,47
+986,60,Female,Graduate,27423,Employed,6,94,98
+987,35,Male,Graduate,28128,Employed,7,56,90
+988,70,Female,Graduate,102292,Unemployed,34,83,95
+989,23,Female,Post Graduate,15000,Employed,1,54,49
+990,20,Male,Graduate,15000,Student,0,63,84
+991,57,Male,School,76405,Employed,24,91,44
+992,46,Female,School,67499,Employed,22,77,77
+993,29,Female,Post Graduate,25159,Unemployed,5,96,66
+994,67,Female,School,129544,Unemployed,45,65,49
+995,53,Male,Post Graduate,92782,Unemployed,30,76,57
+996,52,Male,Post Graduate,62388,Unemployed,19,93,48
+997,33,Male,School,36735,Employed,8,79,67
+998,39,Female,Post Graduate,37871,Unemployed,10,57,71
+999,22,Female,Post Graduate,15000,Student,0,86,72
+1000,23,Female,Post Graduate,15000,Unemployed,0,79,51

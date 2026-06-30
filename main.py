@@ -22,6 +22,19 @@ from reports.report_generator import (
     generate_report,
     generate_analytics_report
 )
+from visualization.graphs import (
+    generate_age_distribution_chart,
+    generate_education_distribution_chart,
+    generate_employment_distribution_chart,
+    generate_income_distribution_chart,
+    generate_health_distribution_chart,
+    generate_happiness_distribution_chart,
+    generate_top_richest_chart,
+    generate_top_healthiest_chart,
+    generate_top_happiest_chart,
+    generate_dashboard
+)
+
 import csv
 def generate_population():
     population = []
@@ -187,6 +200,12 @@ happiness_distribution = (
         population
     )
 )
+generate_age_distribution_chart(age_distribution)
+generate_education_distribution_chart(education_distribution)
+generate_employment_distribution_chart(employment_distribution)
+generate_income_distribution_chart(income_distribution)
+generate_health_distribution_chart(health_distribution)
+generate_happiness_distribution_chart(happiness_distribution)
 print()
 print("Age Distribution")
 print("----------------")
@@ -265,6 +284,10 @@ for citizen in sorted_health[:10]:
         "| Health:", citizen.health_score
     )
 sorted_happiness = merge_sort_happiness(population)
+generate_top_richest_chart(sorted_citizens)
+generate_top_healthiest_chart(sorted_health)
+generate_top_happiest_chart(sorted_happiness)
+generate_dashboard()
 print()
 print("Top 10 Happiest Citizens")
 print("-------------------------")
