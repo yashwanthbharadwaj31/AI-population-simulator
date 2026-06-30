@@ -19,6 +19,7 @@ from data.analytics import (
 )
 from data.search import (
     binary_search_citizen,
+    linear_search_citizen,
     search_by_age,
     search_by_income,
     search_by_education,
@@ -26,6 +27,10 @@ from data.search import (
     filter_by_income_threshold,
     filter_senior_citizens,
     filter_graduates
+)
+from data.performance import (
+    compare_sorting_algorithms,
+    compare_search_algorithms
 )
 from reports.report_generator import (
     generate_report,
@@ -43,35 +48,32 @@ from visualization.graphs import (
     generate_top_happiest_chart,
     generate_dashboard
 )
+from ui.console_ui import (
+    print_banner,
+    print_success,
+    print_info,
+    print_warning,
+    print_error,
+    print_heading,
+    print_search_menu,
+    print_statistics,
+    print_top_table,
+    print_population_report,
+    print_database_insights
+)
 import csv
 def display_citizens(results):
     if not results:
-        print("No citizens found.")
+        print_error("No citizens found.")
         return
-    print()
-    print("=" * 80)
-    print(
-        f"{'ID':<6}"
-        f"{'Age':<6}"
-        f"{'Education':<18}"
-        f"{'Income':<12}"
-        f"{'Employment':<15}"
-        f"{'Health':<10}"
-        f"{'Happiness':<10}"
-    )
-    print("=" * 80)
+    print_heading("SEARCH RESULTS")
+    print("┌──────┬─────┬──────────────────┬────────────┬───────────────┬────────┬───────────┐")
+    print("│ ID   │Age  │ Education        │ Income     │ Employment    │ Health │ Happiness │")
+    print("├──────┼─────┼──────────────────┼────────────┼───────────────┼────────┼───────────┤")
     for citizen in results:
-        print(
-            f"{citizen.citizen_id:<6}"
-            f"{citizen.age:<6}"
-            f"{citizen.education:<18}"
-            f"₹{citizen.income:<11}"
-            f"{citizen.employment_status:<15}"
-            f"{citizen.health_score:<10}"
-            f"{citizen.happiness_score:<10}"
-        )
-    print("=" * 80)
-    print(f"Total Citizens Found: {len(results)}")
+        print(f"│{citizen.citizen_id:^6}│{citizen.age:^5}│{citizen.education:^18}│₹{citizen.income:^10}│{citizen.employment_status:^15}│{citizen.health_score:^8}│{citizen.happiness_score:^11}│")
+    print("└──────┴─────┴──────────────────┴────────────┴───────────────┴────────┴───────────┘")
+    print_success(f"Total Citizens Found : {len(results)}")
 def generate_population():
     population = []
     citizen_income_data = []
@@ -120,7 +122,8 @@ def generate_population():
             )
         )
     return population
-print("Program Started")
+print_banner()
+print_success("Program Started")
 connection = sqlite3.connect("database.db")
 cursor = connection.cursor()
 cursor.execute("DROP TABLE IF EXISTS population")
@@ -158,15 +161,10 @@ for citizen in population:
 )
         )
     
-print()
-print(
-    "Population Generated:",
-    len(population),
-    "Citizens"
-)    
+print_success(f"Population Generated : {len(population)} Citizens")    
 cursor.execute("SELECT COUNT(*) FROM population")
 total_population = cursor.fetchone()[0]
-print("Database Records:", total_population)
+print_success(f"Database Records : {total_population}")
 cursor.execute("""
 SELECT COUNT(*)
 FROM population
@@ -200,9 +198,7 @@ SELECT AVG(happiness_score)
 FROM population
 """)
 average_happiness = round(cursor.fetchone()[0], 2)
-print()
-print("Population Analytics")
-print("--------------------")
+print_heading("POPULATION ANALYTICS")
 print("Employed Citizens:", employed_count)
 print("Unemployed Citizens:", unemployed_count)
 print("Average Income:", average_income)
@@ -242,51 +238,30 @@ generate_employment_distribution_chart(employment_distribution)
 generate_income_distribution_chart(income_distribution)
 generate_health_distribution_chart(health_distribution)
 generate_happiness_distribution_chart(happiness_distribution)
-print()
-print("Age Distribution")
-print("----------------")
-for group, count in age_distribution.items():
-    print(group, ":", count)
-print()
-print("Education Distribution")
-print("----------------------")
-for education, count in education_distribution.items():
-    print(education, ":", count)
-print()
-print("Employment Distribution")
-print("-----------------------")
-for status, count in employment_distribution.items():
-    print(status, ":", count)    
-print()
-print("Income Distribution")
-print("-------------------")
-
-for income_group, count in income_distribution.items():
-    print(
-        income_group,
-        ":",
-        count
-    )
-print()
-print("Health Distribution")
-print("-------------------")
-
-for health_group, count in health_distribution.items():
-    print(
-        health_group,
-        ":",
-        count
-    )    
-print()
-print("Happiness Distribution")
-print("----------------------")
-
-for happiness_group, count in happiness_distribution.items():
-    print(
-        happiness_group,
-        ":",
-        count
-    )  
+print_statistics(
+    "AGE DISTRIBUTION",
+    age_distribution
+)
+print_statistics(
+    "EDUCATION DISTRIBUTION",
+    education_distribution
+)
+print_statistics(
+    "EMPLOYMENT DISTRIBUTION",
+    employment_distribution
+)
+print_statistics(
+    "INCOME DISTRIBUTION",
+    income_distribution
+)
+print_statistics(
+    "HEALTH DISTRIBUTION",
+    health_distribution
+)
+print_statistics(
+    "HAPPINESS DISTRIBUTION",
+    happiness_distribution
+)
 merge_sorted = merge_sort_income(population)    
 print("Sorting Algorithms Comparison")
 print("-----------------------------")
@@ -297,118 +272,115 @@ print("Merge Sort      : O(n log n)")
 print()
 print("Recommended Algorithm : Merge Sort")
 print("Reason : Faster and more efficient for large datasets.")
-print()
-print("Top 10 Richest Citizens")
-print("----------------------")
-sorted_citizens = merge_sort_income(population)
-for citizen in sorted_citizens[:10]:
-    print(
-    "ID:", citizen.citizen_id,
-    "| Age:", citizen.age,
-    "| Status:", citizen.employment_status,
-    "| Income:", citizen.income
+population_by_id = sorted(
+    population,
+    key=lambda citizen: citizen.citizen_id
+)
+sorting_performance = compare_sorting_algorithms(
+    population,
+    bubble_sort_income,
+    selection_sort_income,
+    insertion_sort_income,
+    merge_sort_income
 )
 print()
-print("Top 10 Healthiest Citizens")
-print("-------------------------")
+print("Sorting Performance Analysis")
+print("----------------------------")
+for algorithm, execution_time in sorting_performance.items():
+    print(f"{algorithm:<20}: {execution_time:.6f} seconds")
+    search_performance = compare_search_algorithms(
+    population,
+    population_by_id,
+    linear_search_citizen,
+    binary_search_citizen,
+    500
+)
+print()
+print("Search Performance Analysis")
+print("---------------------------")
+for algorithm, execution_time in search_performance.items():
+    print(f"{algorithm:<20}: {execution_time:.6f} seconds")
+sorted_citizens = merge_sort_income(population)
+print_top_table(
+    "TOP 10 RICHEST CITIZENS",
+    sorted_citizens,
+    "income"
+)
 sorted_health = merge_sort_health(population)
-for citizen in sorted_health[:10]:
-    print(
-        "ID:", citizen.citizen_id,
-        "| Age:", citizen.age,
-        "| Status:", citizen.employment_status,
-        "| Health:", citizen.health_score
-    )
+print_top_table(
+    "TOP 10 HEALTHIEST CITIZENS",
+    sorted_health,
+    "health_score"
+)
 sorted_happiness = merge_sort_happiness(population)
 generate_top_richest_chart(sorted_citizens)
 generate_top_healthiest_chart(sorted_health)
 generate_top_happiest_chart(sorted_happiness)
 generate_dashboard()
-print()
-print("Top 10 Happiest Citizens")
-print("-------------------------")
-for citizen in sorted_happiness[:10]:
-    print(
-        "ID:", citizen.citizen_id,
-        "| Age:", citizen.age,
-        "| Status:", citizen.employment_status,
-        "| Happiness:", citizen.happiness_score
-    )
-print("========================================")
-print("POPULATION REPORT")
-print("========================================")
-print("Total Population:", total_population)
-print("Students:", student_count)
-print("Employed:", employed_count)
-print("Unemployed:", unemployed_count)
-print("Average Income:", average_income)
-print("Average Health Score:", average_health)
-print("Average Happiness Score:", average_happiness)
-print("========================================")  
-print("Sample Citizens") 
-print()
-for citizen in population[:5]:
-    print(
-        citizen.citizen_id,
-        citizen.age,
-        citizen.employment_status,
-        citizen.health_score,
-        citizen.happiness_score
-    )
-print()
-print("======================================")
-print("SEARCH & FILTER MENU")
-print("======================================")
-population_by_id = sorted(
-    population,
-    key=lambda citizen: citizen.citizen_id
+print_top_table(
+    "TOP 10 HAPPIEST CITIZENS",
+    sorted_happiness,
+    "happiness_score"
+)
+print_population_report(
+    total_population,
+    student_count,
+    employed_count,
+    unemployed_count,
+    average_income,
+    average_health,
+    average_happiness
 )
 while True:
-    print()
-    print("1. Search by Citizen ID")
-    print("2. Search by Age")
-    print("3. Search by Income")
-    print("4. Search by Education")
-    print("5. Search by Employment Status")
-    print("6. Filter by Minimum Income")
-    print("7. Filter Senior Citizens")
-    print("8. Filter Graduates")
-    print("9. Exit")
+    print_search_menu()
     choice = input("\nEnter your choice: ")
     if choice == "1":
-        search_id = int(input("Enter Citizen ID: "))
+        try:
+            search_id = int(input("Enter Citizen ID: "))
+        except ValueError:
+            print_error("Please enter a valid Citizen ID.")
+            continue
         found = binary_search_citizen(
             population_by_id,
             search_id
         )
         if found:
-            print("\nCitizen Found")
-            print("---------------------")
-            print("ID:", found.citizen_id)
-            print("Age:", found.age)
-            print("Gender:", found.gender)
-            print("Education:", found.education)
-            print("Income:", found.income)
-            print("Employment:", found.employment_status)
-            print("Experience:", found.experience_years)
-            print("Health:", found.health_score)
-            print("Happiness:", found.happiness_score)
+            print_heading("CITIZEN DETAILS")
+            print("┌───────────────────────────────────────────────┐")
+            print(f"│ Citizen ID      : {found.citizen_id:<27}│")
+            print(f"│ Age             : {found.age:<27}│")
+            print(f"│ Gender          : {found.gender:<27}│")
+            print(f"│ Education       : {found.education:<27}│")
+            print(f"│ Income          : ₹{found.income:<26}│")
+            print(f"│ Employment      : {found.employment_status:<27}│")
+            print(f"│ Experience      : {found.experience_years} Years{'':<19}│")
+            print(f"│ Health Score    : {found.health_score:<27}│")
+            print(f"│ Happiness Score : {found.happiness_score:<27}│")
+            print("└───────────────────────────────────────────────┘")
         else:
-            print("\nCitizen Not Found.")
+            print_error("Citizen Not Found.")
     elif choice == "2":
-        age = int(input("Enter Age: "))
+        try:
+            age = int(input("Enter Age: "))
+        except ValueError:
+            print_error("Please enter a valid Age.")
+            continue
         results = search_by_age(
             population,
             age
         )
         display_citizens(results)
     elif choice == "3":
-        income = int(input("Enter Income: "))
+        try:
+            income = int(input("Enter Income: "))
+        except ValueError:
+            print_error("Please enter a valid Income.")
+            continue
         results = search_by_income(
             population,
             income
         )
-        display_citizens(results)         
+        display_citizens(results)
     elif choice == "4":
         education = input(
             "Enter Education (School/Graduate/Post Graduate): "
@@ -428,21 +400,33 @@ while True:
         )
         display_citizens(results)
     elif choice == "6":
-        minimum_income = int(input("Enter Minimum Income: "))
-        results = filter_by_income_threshold(population, minimum_income)
+        try:
+            minimum_income = int(
+                input("Enter Minimum Income: ")
+            )
+        except ValueError:
+            print_error("Please enter a valid Minimum Income.")
+            continue
+        results = filter_by_income_threshold(
+            population,
+            minimum_income
+        )
         display_citizens(results)
     elif choice == "7":
-        results = filter_senior_citizens(population)
+        results = filter_senior_citizens(
+            population
+        )
         display_citizens(results)
     elif choice == "8":
-        results = filter_graduates(population)
+        results = filter_graduates(
+            population
+        )
         display_citizens(results)
     elif choice == "9":
-        print()
-        print("Exiting Search & Filter Menu...")
+        print_info("Exiting Search & Filter Menu...")
         break
     else:
-        print("Invalid choice. Please try again.")        
+        print_error("Invalid choice. Please try again.") 
 print()
 print("Exporting Population Data...")
 csv_file = open(
@@ -475,7 +459,7 @@ for citizen in population:
         citizen.happiness_score
     ])
 csv_file.close()
-print("CSV Export Successful")    
+print_success("CSV Export Successful")    
 top_csv = open(
     "exports/top_citizens.csv",
     "w",
@@ -524,7 +508,7 @@ for citizen in sorted_happiness[:10]:
 ])
     rank += 1
 top_csv.close()
-print("Top Citizens CSV Exported")
+print_success("Top Citizens CSV Exported")
 print()
 print("Exporting Top Earners From Database...")
 cursor.execute("""
@@ -552,7 +536,7 @@ writer.writerow([
 for citizen in top_earners:
     writer.writerow(citizen)
 top_earners_csv.close()
-print("Top Earners DB Export Complete")    
+print_success("Top Earners DB Export Complete")    
 print()
 print("Exporting Top Healthiest From Database...")
 cursor.execute("""
@@ -580,30 +564,20 @@ writer.writerow([
 for citizen in top_healthiest:
     writer.writerow(citizen)
 health_csv.close()
-print(
+print_success(
     "Top Healthiest DB Export Complete"
 )
 print()
-print("Database Insights")
-print("-----------------")
 cursor.execute("""
 SELECT MAX(income)
 FROM population
 """)
 highest_income = cursor.fetchone()[0]
-print(
-    "Highest Income:",
-    highest_income
-)
 cursor.execute("""
 SELECT MIN(income)
 FROM population
 """)
 lowest_income = cursor.fetchone()[0]
-print(
-    "Lowest Income:",
-    lowest_income
-)
 cursor.execute("""
 SELECT employment_status,
        ROUND(AVG(income), 2)
@@ -611,15 +585,11 @@ FROM population
 GROUP BY employment_status
 """)
 income_stats = cursor.fetchall()
-print()
-print("Income By Employment Status")
-print("---------------------------")
-for row in income_stats:
-    print(
-        row[0],
-        ":",
-        row[1]
-    )
+print_database_insights(
+    highest_income,
+    lowest_income,
+    income_stats
+)
 insights_file = open(
     "reports/database_insights.txt",
     "w"
@@ -647,10 +617,7 @@ for row in income_stats:
         f"{row[0]} : {row[1]}\n"
     )
 insights_file.close()
-print()
-print(
-    "Database Insights Report Generated"
-)   
+print_success("Database Insights Report Generated")   
 summary_csv = open(
     "exports/database_summary.csv",
     "w",
@@ -698,10 +665,10 @@ writer.writerow([
     lowest_income
 ])
 summary_csv.close()
-print(
+print_success(
     "Database Summary CSV Exported"
 ) 
-print("Creating report...")
+print_info("Creating report...")
 analytics_csv = open(
     "exports/analytics_summary.csv",
     "w",
@@ -734,9 +701,7 @@ for group, count in happiness_distribution.items():
         count
     ])
 analytics_csv.close()
-print(
-    "Analytics Summary CSV Exported"
-)
+print_success("Analytics Summary CSV Exported")
 generate_report(
     total_population,
     student_count,
@@ -757,7 +722,6 @@ generate_analytics_report(
     health_distribution,
     happiness_distribution
 )
-print()
-print("Report Generated Successfully")    
+print_success("Reports Generated Successfully")
 connection.commit()
 connection.close()

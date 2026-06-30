@@ -19,6 +19,14 @@ def binary_search_citizen(
         else:
             right = middle - 1
     return None
+def linear_search_citizen(
+    population,
+    search_id
+):
+    for citizen in population:
+        if citizen.citizen_id == search_id:
+            return citizen
+    return None
 def search_by_age(
     population,
     age
