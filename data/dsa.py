@@ -55,3 +55,44 @@ def merge_sort_happiness(citizens):
     result.extend(left[i:])
     result.extend(right[j:])
     return result  
+def bubble_sort_income(citizens):
+    sorted_citizens = citizens.copy()
+    n = len(sorted_citizens)
+    for i in range(n):
+        swapped = False
+        for j in range(0, n - i - 1):
+            if sorted_citizens[j].income < sorted_citizens[j + 1].income:
+                sorted_citizens[j], sorted_citizens[j + 1] = (
+                    sorted_citizens[j + 1],
+                    sorted_citizens[j]
+                )
+                swapped = True
+        if not swapped:
+            break
+    return sorted_citizens
+def selection_sort_income(citizens):
+    sorted_citizens = citizens.copy()
+    n = len(sorted_citizens)
+    for i in range(n):
+        max_index = i
+        for j in range(i + 1, n):
+            if sorted_citizens[j].income > sorted_citizens[max_index].income:
+                max_index = j
+        sorted_citizens[i], sorted_citizens[max_index] = (
+            sorted_citizens[max_index],
+            sorted_citizens[i]
+        )
+    return sorted_citizens
+def insertion_sort_income(citizens):
+    sorted_citizens = citizens.copy()
+    for i in range(1, len(sorted_citizens)):
+        current = sorted_citizens[i]
+        j = i - 1
+        while (
+            j >= 0 and
+            sorted_citizens[j].income < current.income
+        ):
+            sorted_citizens[j + 1] = sorted_citizens[j]
+            j -= 1
+        sorted_citizens[j + 1] = current
+    return sorted_citizens

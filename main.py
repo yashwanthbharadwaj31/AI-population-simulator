@@ -4,7 +4,10 @@ from models.citizen import Citizen
 from data.dsa import (
     merge_sort_income,
     merge_sort_health,
-    merge_sort_happiness
+    merge_sort_happiness,
+    bubble_sort_income,
+    selection_sort_income,
+    insertion_sort_income
 )
 from data.analytics import (
     get_age_distribution,
@@ -228,12 +231,22 @@ for happiness_group, count in happiness_distribution.items():
         happiness_group,
         ":",
         count
-    )        
+    )  
+merge_sorted = merge_sort_income(population)    
+print("Sorting Algorithms Comparison")
+print("-----------------------------")
+print("Bubble Sort     : O(n²)")
+print("Selection Sort  : O(n²)")
+print("Insertion Sort  : O(n²)")
+print("Merge Sort      : O(n log n)")
 print()
-print("Top 5 Richest Citizens")
+print("Recommended Algorithm : Merge Sort")
+print("Reason : Faster and more efficient for large datasets.")
+print()
+print("Top 10 Richest Citizens")
 print("----------------------")
 sorted_citizens = merge_sort_income(population)
-for citizen in sorted_citizens[:5]:
+for citizen in sorted_citizens[:10]:
     print(
     "ID:", citizen.citizen_id,
     "| Age:", citizen.age,
@@ -241,10 +254,10 @@ for citizen in sorted_citizens[:5]:
     "| Income:", citizen.income
 )
 print()
-print("Top 5 Healthiest Citizens")
+print("Top 10 Healthiest Citizens")
 print("-------------------------")
 sorted_health = merge_sort_health(population)
-for citizen in sorted_health[:5]:
+for citizen in sorted_health[:10]:
     print(
         "ID:", citizen.citizen_id,
         "| Age:", citizen.age,
@@ -253,9 +266,9 @@ for citizen in sorted_health[:5]:
     )
 sorted_happiness = merge_sort_happiness(population)
 print()
-print("Top 5 Happiest Citizens")
+print("Top 10 Happiest Citizens")
 print("-------------------------")
-for citizen in sorted_happiness[:5]:
+for citizen in sorted_happiness[:10]:
     print(
         "ID:", citizen.citizen_id,
         "| Age:", citizen.age,
@@ -366,7 +379,7 @@ writer.writerow([
     "Value"
 ])
 rank = 1
-for citizen in sorted_citizens[:5]:
+for citizen in sorted_citizens[:10]:
     writer.writerow([
     rank,
     "Richest",
@@ -377,7 +390,7 @@ for citizen in sorted_citizens[:5]:
 ])
     rank += 1
 rank = 1
-for citizen in sorted_health[:5]:
+for citizen in sorted_health[:10]:
     writer.writerow([
     rank,
     "Healthiest",
@@ -388,7 +401,7 @@ for citizen in sorted_health[:5]:
 ])
     rank += 1
 rank = 1
-for citizen in sorted_happiness[:5]:
+for citizen in sorted_happiness[:10]:
     writer.writerow([
     rank,
     "Happiest",
